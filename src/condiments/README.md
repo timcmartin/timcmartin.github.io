@@ -9,7 +9,7 @@
 * [Chimichurri](../mains/argentinian_style_steak.md#chimichurri)
 * [Cream Cheese](cream_cheese.md)
 * [Crema](crema.md)
-* [Hollandaise](../mains/breakfast.md#hollandaise)
+* [Hollandaise](hollandaise.md)
 * [Horseradish Cream](horseradish_cream.md)
 * [KFC Spice](kfc.md)
 * [Korean BBQ Sauce](korean_bbq.md)

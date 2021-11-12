@@ -16,7 +16,7 @@
 * [Garlic Bread](garlic_bread.md)
 * [Glazed Carrots](glazed_carrots.md)
 * [Hamburger Buns](hamburger_buns.md)
-* [Home Fries](../mains/breakfast.md#home_fries)
+* [Home Fries](homefries.md)
 * [Jalapeno Cheddar Corn Bread](corn_bread.md#jcc)
 * [CI Kale Caesar](ci_kale.md)
 * [Potato Salad](potato_salad.md)

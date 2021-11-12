@@ -1,6 +1,8 @@
 [book]
+title = "Recipes"
 authors = ["Tim Martin"]
+description = "Choice recipes."
+src = "src"
 language = "en"
 multilingual = false
-src = "src"
-title = "Recipes"
+create-missing = false
