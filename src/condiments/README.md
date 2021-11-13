@@ -4,7 +4,7 @@
 * [Blue Cheese Dressing](blue_cheese_dressing.md)
 * [Caesar Dressing](caesar_dressing.md)
 * [Carolina Gold Mustard Sauce](carolina_gold_mustard_sauce.md)
-* [Cheese Sauce](../sides/vegetable_medley.md#sauce)
+* [Cheese Sauce](cheese_sauce.md)
 * [Chili Sauce](chili_sauce.md)
 * [Chimichurri](../mains/argentinian_style_steak.md#chimichurri)
 * [Cream Cheese](cream_cheese.md)

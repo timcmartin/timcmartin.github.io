@@ -7,11 +7,7 @@
 * 1 head cauliflower
 * 3 carrots
 
-### [Cheese Sauce](#sauce)
-* 4 Tbs butter
-* 1/4 cup of flour
-* 2 cups milk
-* 2 cups cheese
+{{#include ../condiments/cheese_sauce.md}}
 
 ### Topping
 * 1/2 cup cheddar cheese

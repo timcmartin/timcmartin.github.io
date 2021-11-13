@@ -38,7 +38,6 @@
 * [Pesto](pesto.md)
 * [Pizza Dough](pizza_dough.md)
 * [Pizza Papalis](pizza_papalis.md)
-* [Poached Eggs](breakfast.md#poached_eggs)
 * [Pork Belly Burnt Ends](pork_belly_burnt_ends.md)
 * [Pressure Cooker Beef Stew](pressure_cooker_beef_stew.md)
 * [Prime Rib](prime_rib.md)
