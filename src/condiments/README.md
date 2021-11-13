@@ -11,6 +11,7 @@
 * [Crema](crema.md)
 * [Hollandaise](hollandaise.md)
 * [Horseradish Cream](horseradish_cream.md)
+* [Hot Sauce](hot_sauce.md)
 * [KFC Spice](kfc.md)
 * [Korean BBQ Sauce](korean_bbq.md)
 * [Mayonnaise](mayonnaise.md)

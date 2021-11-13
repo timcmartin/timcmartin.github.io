@@ -1,5 +1,7 @@
 # Hot Sauce
 
+[ATK]
+
 >>If you can’t find Fresno chiles, you can substitute an equal weight of red jalapeños or red cherry peppers.
 
 ## Ingredients

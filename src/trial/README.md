@@ -8,6 +8,6 @@ Recipes that I haven't tried yet, but am saving for posterity.
 * [Chili Crisp](chili_crisp.md)
 * [Dan Dan Noodles](dandan.md)
 * [Flour Tortillas](flour_tortillas.md)
-* [Helluva Good Dip](helluva_good_dip.md)
+* [Grill Fried Chicken Wings](grill_fried_chicken_wings.md)
 * [Hellman's Mayo Clone](hellmans.md)
-* [Hot Sauce](hot_sauce.md)
+* [Helluva Good Dip](helluva_good_dip.md)
