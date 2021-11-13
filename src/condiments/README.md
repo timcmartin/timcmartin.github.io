@@ -6,7 +6,7 @@
 * [Carolina Gold Mustard Sauce](carolina_gold_mustard_sauce.md)
 * [Cheese Sauce](cheese_sauce.md)
 * [Chili Sauce](chili_sauce.md)
-* [Chimichurri](../mains/argentinian_style_steak.md#chimichurri)
+* [Chimichurri](chimichurri.md)
 * [Cream Cheese](cream_cheese.md)
 * [Crema](crema.md)
 * [Hollandaise](hollandaise.md)
