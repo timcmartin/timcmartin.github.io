@@ -17,6 +17,7 @@
 * [Deconstructed Turkey](deconstructed_turkey.md)
 * [Detroit Pizza](detroit_pizza.md)
 * [Deviled Pork Chops](deviled_pork_chops.md)
+* [Donairs](donairs.md)
 * [Fettuccine Alfredo](alfredo.md)
 * [Grain Bowls](grain_bowls.md)
 * [Grilled Pizza](grilled_pizza.md)

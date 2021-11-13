@@ -1,5 +1,7 @@
 # Cream Cheese
 
+> Made twice - once turned out great, the second time not so much,
+
 ## Ingredients
 
 * 1 cup 35% heavy cream
