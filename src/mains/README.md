@@ -27,7 +27,7 @@
 * [Korean Fried Chicken Wings](korean_wings.md)
 * [Kung Pao Chicken](kung_pao_chicken.md)
 * [Meatballs (ATK)](atk_meatballs.md)
-* [Meatballs](../condiments/tomato_sauce.md#meatballs)
+* [Meatballs](meatballs.md)
 * [Meatloaf](meatloaf.md)
 * [Mushroom Lasagna](mushroom_lasagna.md)
 * [Oven Ribs](oven_ribs.md)
