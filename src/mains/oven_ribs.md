@@ -12,7 +12,7 @@
 5. In the last 1/2 hour, start basting with Smokey Butter baste: 2 - 3 times.
 6. Brush the ribs with a sauce of your choice and broil on high until sizzled."
 
-##[Smokey Butter Baste](#smokey_butter)
+# Smokey Butter Baste
 
 ### Ingredients
 * 4 Tablespoons salted butter

@@ -53,7 +53,6 @@
     - [Pizza Sauce](condiments/pizza_sauce.md)
     - [Rub](condiments/rub.md)
     - [Salsa Verde](condiments/salsa_verde.md)
-    - [Smokey Butter Baste](mains/oven_ribs.md#smokey_butter)
     - [Taco Seasoning](condiments/taco_seasoning.md)
     - [Tomato Sauce](condiments/tomato_sauce.md)
     - [Turkey Gravy](condiments/turkey_gravy.md)
