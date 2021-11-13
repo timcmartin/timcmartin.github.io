@@ -7,4 +7,3 @@
 * [Nuts & Bolts](nuts_bolts.md)
 * [Peanut Butter Engergy Bites](pb_energy.md)
 * [Perfect Popcorn](perfect_popcorn.md)
-* [Pill Pockets](pill_pockets.md)
