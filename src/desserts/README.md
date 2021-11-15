@@ -7,6 +7,7 @@
 * [Cheesecake in a Jar](cheesecake.md)
 * [Chocolate Pudding](chocolate_pudding.md)
 * [Chocolate Zucchini Bread](chocolate_zucchini.md)
+* [Deep Dish Apple Pie](deep_dish_apple_pie.md)
 * [Dutchie Donuts](dutchies.md)
 * [Gravity Carrot Cake](gravity_carrot_cake.md)
 * [Hard Chocolate Sauce](hard_chocolate_sauce.md)
