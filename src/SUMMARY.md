@@ -193,6 +193,7 @@
     - [Avgolemono](soups/avgolemono.md)
     - [Cauliflower Soup](soups/cauliflower.md)
     - [Breville Fast Slow Cooker Chicken Stock](soups/chicken_stock.md)
+    - [Farmhouse Chicken Noodle Soup](soups/farmhouse_chicken_noodle_soup.md)
     - [French Onion Soup](soups/french_onion_soup.md)
     - [Mushroom Soup](soups/mushroom.md)
 - [To Try](trial/README.md)
