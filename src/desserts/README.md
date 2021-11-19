@@ -9,6 +9,7 @@
 * [Chocolate Zucchini Bread](chocolate_zucchini.md)
 * [Deep Dish Apple Pie](deep_dish_apple_pie.md)
 * [Dutchie Donuts](dutchies.md)
+* [Gluten-Free Apple Crisp](gluten_free_apple_crisp.md)
 * [Gravity Carrot Cake](gravity_carrot_cake.md)
 * [Hard Chocolate Sauce](hard_chocolate_sauce.md)
 * [Millionaire's Shortbread](millionaiares_shortbread.md)

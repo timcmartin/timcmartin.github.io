@@ -67,6 +67,7 @@
     - [Chocolate Zucchini Bread](desserts/chocolate_zucchini.md)
     - [Deep Dish Apple Pie](desserts/deep_dish_apple_pie.md)
     - [Dutchie Donuts](desserts/dutchies.md)
+    - [Gluten-Free Apple Crisp](desserts/gluten_free_apple_crisp.md)
     - [Gravity Carrot Cake](desserts/gravity_carrot_cake.md)
     - [Hard Chocolate Sauce](desserts/hard_chocolate_sauce.md)
     - [Millionaire's Shortbread](desserts/millionaiares_shortbread.md)
