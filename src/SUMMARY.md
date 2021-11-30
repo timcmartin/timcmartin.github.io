@@ -127,6 +127,7 @@
     - [Shepherd's Pie](mains/shepherds_pie.md)
     - [Shrimp Boil](mains/shrimp_boil.md)
     - [Smothered Chicken](mains/smothered_chicken.md)
+    - [Spaghetti Squash](mains/spaghetti_squash.md)
     - [Stovetop Macaroni and Cheese](mains/macaroni_and_cheese.md)
     - [Tacos al Carbon](mains/tacos_al_carbon.md)
     - [Top Loin Roast](mains/top_loin_roast.md)
