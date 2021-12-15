@@ -1,5 +1,7 @@
 # Cream Cheese
 
+[Amy Rosen](https://www.bonappetit.com/story/make-your-own-cream-cheesea)
+
 > Made twice - once turned out great, the second time not so much,
 
 ## Ingredients
