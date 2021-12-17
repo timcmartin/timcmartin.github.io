@@ -205,5 +205,6 @@
     - [Dan Dan Noodles](trial/dandan.md)
     - [Flour Tortillas](trial/flour_tortillas.md)
     - [Grill Fried Chicken Wings](trial/grill_fried_chicken_wings.md)
+    - [Grown Up Grilled Cheese](trial/grown_up_grilled_cheese.md)
     - [Hellman's Mayo Clone](trial/hellmans.md)
     - [Helluva Good Dip](trial/helluva_good_dip.md)
