@@ -5,11 +5,15 @@ This book contains my favourite recipes, collected from various sources over tim
 I have tried to remember to include the source whenever possible, but when in doubt, check out [Dinner With Julie](http://www.dinnerwithjulie.com).
 
 ## Conversions
+
+### Anchovy Paste
 * 1/2 teaspoon of anchovy paste = 1 anchovy fillet
+* [Cook's Illustrated Notes](https://www.cooksillustrated.com/how_tos/10002-swapping-anchovy-paste-for-fillets)
+
+### Altitude
 * Calgary is at 3500 feet -> add 10 minutes processing time to boiling water canning (from sea level).
 * Water boils at 212 F (sea level) 205 F (Calgary) - subtract 7 degrees from target temps.
 * Hot water bath (pickle canning) no need to adjust time.
-* 1 tsp anchovy paste => 1 anchovy
 
 ### [Other Conversions](https://www.cooksillustrated.com/how_tos/5490-baking-conversion-chart)
 

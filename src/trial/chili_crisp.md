@@ -1,6 +1,5 @@
 # Chili Crisp
 
-
 ## Ingredients
 
 * 1/2 cup Sichuan chili powder
