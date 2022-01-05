@@ -49,6 +49,7 @@
 - [Smothered Chicken](smothered_chicken.md)
 - [Spaghetti Squash](spaghetti_squash.md)
 - [Stovetop Macaroni and Cheese](macaroni_and_cheese.md)
+- [Stuffed Shells](stuffed_shells.md)
 - [Tacos al Carbon](tacos_al_carbon.md)
 - [Top Loin Roast](top_loin_roast.md)
 - [Thick Cut Pork Chops](thick_cut_pork.md)

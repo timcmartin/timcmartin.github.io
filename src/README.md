@@ -5,33 +5,30 @@ This book contains my favourite recipes, collected from various sources over tim
 I have tried to remember to include the source whenever possible, but when in doubt, check out [Dinner With Julie](http://www.dinnerwithjulie.com).
 
 ## Conversions
-
 ### Anchovy Paste
 * 1/2 teaspoon of anchovy paste = 1 anchovy fillet
 * [Cook's Illustrated Notes](https://www.cooksillustrated.com/how_tos/10002-swapping-anchovy-paste-for-fillets)
-
 ### Altitude
 * Calgary is at 3500 feet -> add 10 minutes processing time to boiling water canning (from sea level).
 * Water boils at 212 F (sea level) 205 F (Calgary) - subtract 7 degrees from target temps.
 * Hot water bath (pickle canning) no need to adjust time.
 
 ### [Other Conversions](https://www.cooksillustrated.com/how_tos/5490-baking-conversion-chart)
+| Ingredient                               | Ounces   | Grams   |
+|------------------------------------------|----------|---------|
+| 1 cup all-purpose flour                  | 5        | 142     |
+| 1 cup cake flour                         | 4        | 113     |
+| 1 cup whole wheat flour                  | 5 1/2    | 156     |
+| 1 cup granulated (white) sugar           | 7        | 198     |
+| 1 cup packed brown sugar (light or dark) | 7        | 198     |
+| 1 cup confectioners' sugar               | 4        | 113     |
+| 1 cup cocoa powder                       | 3        | 85      |
 
-| Ingredient                               | Ounces | Grams |
-|------------------------------------------|--------|-------|
-| 1 cup all-purpose flour                  | 5      | 142   |
-| 1 cup cake flour                         | 4      | 113   |
-| 1 cup whole wheat flour                  | 5 1/2  | 156   |
-| 1 cup granulated (white) sugar           | 7      | 198   |
-| 1 cup packed brown sugar (light or dark) | 7      | 198   |
-| 1 cup confectioners' sugar               | 4      | 113   |
-| 1 cup cocoa powder                       | 3      | 85    |
-
-| Butter                                | Ounces | Grams |
-|---------------------------------------|--------|-------|
-| 4 tablespoons (1/2 stick, or 1/4 cup) | 2      | 57    |
-| 8 tablespoons (1 stick, or 1/2 cup)   | 4      | 113   |
-| 16 tablespoons (2 sticks, or 1 cup)   | 8      | 227   |
+| Butter                                   | Ounces   | Grams   |
+| ---------------------------------------- | -------- | ------- |
+| 4 tablespoons (1/2 stick, or 1/4 cup)    | 2        | 57      |
+| 8 tablespoons (1 stick, or 1/2 cup)      | 4        | 113     |
+| 16 tablespoons (2 sticks, or 1 cup)      | 8        | 227     |
 
 ## Notes
 * Cooks Illustrated Granola bars -> one bag of apricots
@@ -58,6 +55,3 @@ There are lots of recipes you can use, but this is a good place to start: https:
 There are some great tips and timings for weekday sourdough and weekend bakes.
 
 I usually halve the recipes to make 1 loaf at a time.
-
-## Stuffed Shells
-* If you x1.5 the recipe you have plenty to fill a 9x13 & an 8x8, you use all the ricotta in the container, and all the shells in the box!
