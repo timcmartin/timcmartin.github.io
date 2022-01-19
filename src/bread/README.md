@@ -1,6 +1,7 @@
 # Bread
 
 * [Bagels](bagels.md)
+* [Daily Sourdough](daily_sourdough.md)
 * [Easy Biscuits](easy_biscuits.md)
 * [English Muffins](english_muffins.md)
 * [Gravity Cheese Biscuits](gravity_cheese_biscuits.md)
