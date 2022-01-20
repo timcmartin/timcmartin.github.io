@@ -34,6 +34,10 @@
 5. Place bread pans in the freezer and let the dough freeze for about 10 hours.
 6. After 10 hours, remove the bread dough from the pans. Then, wrap it in plastic wrap and place it in a resealable plastic freezer bag.
 7. Date the bag(s) of dough loaves and place in the freezer immediately. Your dough can be frozen for up to four weeks.
+#### TO BAKE:
+1. Thaw, covered, in greased loaf pan in the refrigerator overnight.
+2. Cover and let it rise in a warm place until doubled (this is the second rise), which will take longer than dough that has not been frozen.
+3. Bake as directed.
 
 ## One Loaf
 
