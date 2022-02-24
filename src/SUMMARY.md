@@ -210,3 +210,4 @@
     - [Grown Up Grilled Cheese](trial/grown_up_grilled_cheese.md)
     - [Hellman's Mayo Clone](trial/hellmans.md)
     - [Helluva Good Dip](trial/helluva_good_dip.md)
+    - [One Batch Fried Chicken](trial/one_batch_fried_chicken.md)
