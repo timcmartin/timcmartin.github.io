@@ -113,6 +113,7 @@
     - [Meatballs](mains/meatballs.md)
     - [Meatloaf](mains/meatloaf.md)
     - [Mushroom Lasagna](mains/mushroom_lasagna.md)
+    - [One Batch Fried Chicken](mains/one_batch_fried_chicken.md)
     - [Oven Ribs](mains/oven_ribs.md)
     - [Pad Thai](mains/pad_thai.md)
     - [Pancakes](mains/pancakes.md)
@@ -210,4 +211,3 @@
     - [Grown Up Grilled Cheese](trial/grown_up_grilled_cheese.md)
     - [Hellman's Mayo Clone](trial/hellmans.md)
     - [Helluva Good Dip](trial/helluva_good_dip.md)
-    - [One Batch Fried Chicken](trial/one_batch_fried_chicken.md)

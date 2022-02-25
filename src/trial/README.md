@@ -12,4 +12,3 @@ Recipes that I haven't tried yet, but am saving for posterity.
 - [Grown Up Grilled Cheese](grown_up_grilled_cheese.md)
 - [Hellman's Mayo Clone](hellmans.md)
 - [Helluva Good Dip](helluva_good_dip.md)
-- [One Batch Fried Chicken](one_batch_fried_chicken.md)

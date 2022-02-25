@@ -32,6 +32,7 @@
 - [Meatballs](meatballs.md)
 - [Meatloaf](meatloaf.md)
 - [Mushroom Lasagna](mushroom_lasagna.md)
+- [One Batch Fried Chicken](one_batch_fried_chicken.md)
 - [Oven Ribs](oven_ribs.md)
 - [Pad Thai](pad_thai.md)
 - [Pancakes](pancakes.md)
