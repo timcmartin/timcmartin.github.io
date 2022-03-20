@@ -19,6 +19,7 @@
 * [Home Fries](homefries.md)
 * [Jalapeno Cheddar Corn Bread](jalapeno_cheddar_corn_bread.md)
 * [CI Kale Caesar](ci_kale.md)
+* [Mexican Rice](mexican_rice.md)
 * [Potato Salad](potato_salad.md)
 * [Scalloped Potatoes](scalloped_potatoes.md)
 * [Steakhouse Salad](steakhouse_salad.md)

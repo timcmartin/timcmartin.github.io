@@ -179,6 +179,7 @@
     - [Hamburger Buns](sides/hamburger_buns.md)
     - [Home Fries](sides/home_fries.md)
     - [Jalapeno Cheddar Corn Bread](sides/jalapeno_cheddar_corn_bread.md)
+    - [Mexican Rice](sides/mexican_rice.md)
     - [Potato Salad](sides/potato_salad.md)
     - [Scalloped Potatoes](sides/scalloped_potatoes.md)
     - [Steakhouse Salad](sides/steakhouse_salad.md)
