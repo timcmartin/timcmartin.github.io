@@ -24,5 +24,6 @@
 * [Rub](rub.md)
 * [Salsa Verde](salsa_verde.md)
 * [Taco Seasoning](taco_seasoning.md)
+* [Tartar Sauce](tartar_sauce.md)
 * [Tomato Sauce](tomato_sauce.md)
 * [Turkey Gravy](turkey_gravy.md)

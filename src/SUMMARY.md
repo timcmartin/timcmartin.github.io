@@ -56,6 +56,7 @@
     - [Rub](condiments/rub.md)
     - [Salsa Verde](condiments/salsa_verde.md)
     - [Taco Seasoning](condiments/taco_seasoning.md)
+    - [Tartar Sauce](condiments/tartar_sauce.md)
     - [Tomato Sauce](condiments/tomato_sauce.md)
     - [Turkey Gravy](condiments/turkey_gravy.md)
 - [Desserts](desserts/README.md)
