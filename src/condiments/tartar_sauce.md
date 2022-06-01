@@ -8,3 +8,6 @@
 * 1 small shallot, minced
 * 1 tablespoon capers, rinsed and chopped fine
 * 1/4 teaspoon pepper
+
+## Directions
+1. Combine.

@@ -47,6 +47,7 @@
 - [Shaking Beef](shaking_beef.md)
 - [Shepherd's Pie](shepherds_pie.md)
 - [Shrimp Boil](shrimp_boil.md)
+- [Shrimp Burgers](shrimp_burgers.md)
 - [Smothered Chicken](smothered_chicken.md)
 - [Spaghetti Squash](spaghetti_squash.md)
 - [Stovetop Macaroni and Cheese](macaroni_and_cheese.md)

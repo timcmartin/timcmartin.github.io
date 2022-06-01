@@ -34,6 +34,10 @@ git push --force book
 git checkout main
 ```
 
+## Linking Recipes
+
+* Use the following pattern: `{{#include ../mains/meatballs.md}}`
+
 ## TODO:
 
 * CI Integration to run script at Github instead of locally.
