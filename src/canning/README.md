@@ -111,3 +111,12 @@
 | Saturday Sep 18 | 10 lbs | 9 pints, 4.5 litres                 | Chili Sauce         | Marilyn's regular recipe<br> Got tomatoes at DJ market                            |
 | Saturday Sep 18 | 30 lbs | 6 litres                            | Tomato Sauce        | Used combo of Youtube and DIY Cookbook Summer Sauce                               |
 
+## 2022
+* July 8: Strawberry Jam
+* Purchased two flats at BC joint in the Farmer's Market.  They said 15 pounds each, but not quite.
+* Did 7 batches of recipe - 3 pounds each.  21 pounds into Jam, and a little over 2 pounds for eating.
+* Berries were quite deep red all the way through - now packed with flavour.
+
+| Date            | Weight | Yield                               | Description         | Notes                                                                             |
+|-----------------|--------|-------------------------------------|---------------------|-----------------------------------------------------------------------------------|
+| Friday July 8   | 21 lbs | 16 pints                            | Strawberry Jam      | 10 * 1 Pint, 12 * 250 mL                                                          |

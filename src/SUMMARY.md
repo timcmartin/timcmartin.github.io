@@ -208,6 +208,8 @@
 - [To Try](trial/README.md)
     - [Bread and Butter Pickles](trial/bb_pickles.md)
     - [Buttermilk Substitute](trial/buttermilk.md)
+    - [Egg Bites](trial/egg_bites.md)
+    - [Chili Crisp](trial/chili_crisp.md)
     - [Dan Dan Noodles](trial/dandan.md)
     - [Flour Tortillas](trial/flour_tortillas.md)
     - [Grill Fried Chicken Wings](trial/grill_fried_chicken_wings.md)

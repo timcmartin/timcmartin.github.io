@@ -34,6 +34,10 @@ git push --force book
 git checkout main
 ```
 
+## Running Locally
+
+* `mdbook serve`
+
 ## Linking Recipes
 
 * Use the following pattern: `{{#include ../mains/meatballs.md}}`
