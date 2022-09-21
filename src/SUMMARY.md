@@ -205,6 +205,7 @@
     - [Farmhouse Chicken Noodle Soup](soups/farmhouse_chicken_noodle_soup.md)
     - [French Onion Soup](soups/french_onion_soup.md)
     - [Mushroom Soup](soups/mushroom.md)
+    - [Vegetable Soup](soups/vegetable_soup.md)
 - [To Try](trial/README.md)
     - [Bread and Butter Pickles](trial/bb_pickles.md)
     - [Buttermilk Substitute](trial/buttermilk.md)

@@ -6,3 +6,4 @@
 - [Farmhouse Chicken Noodle Soup](farmhouse_chicken_noodle_soup.md)
 - [French Onion Soup](french_onion_soup.md)
 - [Mushroom Soup](mushroom.md)
+- [Vegetable Soup](vegetable_soup.md)
