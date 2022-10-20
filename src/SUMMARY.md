@@ -200,6 +200,7 @@
     - [Popcorn Maker](snacks/popcorn_maker.md)
 - [Soups](soups/README.md)
     - [Avgolemono](soups/avgolemono.md)
+    - [Butternut Squash, Sweet Potato, Lentil](soups/butternut_squash.md)
     - [Cauliflower Soup](soups/cauliflower.md)
     - [Breville Fast Slow Cooker Chicken Stock](soups/chicken_stock.md)
     - [Farmhouse Chicken Noodle Soup](soups/farmhouse_chicken_noodle_soup.md)
