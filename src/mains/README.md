@@ -10,6 +10,7 @@
 - [Breakfast](breakfast.md)
 - [Brisket](brisket.md)
 - [Cabbage Rolls](cabbage_rolls.md)
+- [Cassoulet](cassoulet.md)
 - [Chicken And Sliders](chicken_and_sliders.md)
 - [Chicken Pot Pie](chicken_pot_pie.md)
 - [Chicken Vindaloo](chicken_vindaloo.md)
