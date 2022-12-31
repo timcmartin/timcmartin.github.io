@@ -4,6 +4,7 @@
 > Tried this on the keg, Easter 2019.
 > Used 3/4 chimney of Blues Hog charcoal, a couple of chunks of cherry and kept temp between 350 and 400 with diffuser.
 > 20 pound turkey took about 1:45  Did stuffing covered in oven for 1 hour.
+> 2022 - [dry brined](../misc/turkey_brine.md#dry), 22 pound turkey took about 2 hours.  Watch the bottom of the stuffing - got pretty crispy - not too far from burnt.
 
 ## Ingredients
 * 1 10-15 lb (5-7 kg) fresh turkey (or whatever size you like)
