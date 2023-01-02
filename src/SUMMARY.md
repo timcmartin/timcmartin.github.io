@@ -74,6 +74,7 @@
     - [Gravity Carrot Cake](desserts/gravity_carrot_cake.md)
     - [Hard Chocolate Sauce](desserts/hard_chocolate_sauce.md)
     - [Millionaire's Shortbread](desserts/millionaiares_shortbread.md)
+    - [Mincemeat](desserts/mincemeat.md)
     - [Pie Dough](desserts/pie_dough.md)
     - [Pouding Chomeur](desserts/pouding_chomeur.md)
     - [Pumpkin Pie](desserts/pumpkin_pie.md)

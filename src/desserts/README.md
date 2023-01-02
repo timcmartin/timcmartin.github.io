@@ -13,6 +13,7 @@
 * [Gravity Carrot Cake](gravity_carrot_cake.md)
 * [Hard Chocolate Sauce](hard_chocolate_sauce.md)
 * [Millionaire's Shortbread](millionaiares_shortbread.md)
+* [Mincemeat](mincemeat.md)
 * [Pie Dough](pie_dough.md)
 * [Pouding Chomeur](pouding_chomeur.md)
 * [Pumpkin Pie](pumpkin_pie.md)
