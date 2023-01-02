@@ -39,6 +39,7 @@
     - [Cheese Sauce](condiments/cheese_sauce.md)
     - [Chili Sauce](condiments/chili_sauce.md)
     - [Chimichurri](condiments/chimichurri.md)
+    - [Cranberry Sauce](condiments/cranberry_sauce.md)
     - [Cream Cheese](condiments/cream_cheese.md)
     - [Crema](condiments/crema.md)
     - [Hollandaise](condiments/hollandaise.md)

@@ -7,6 +7,7 @@
 * [Cheese Sauce](cheese_sauce.md)
 * [Chili Sauce](chili_sauce.md)
 * [Chimichurri](chimichurri.md)
+* [Cranberry Sauce](cranberry_sauce.md)
 * [Cream Cheese](cream_cheese.md)
 * [Crema](crema.md)
 * [Hollandaise](hollandaise.md)
