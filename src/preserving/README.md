@@ -7,6 +7,7 @@
 * [Maraschino Cherries](maraschino.md)
 * [Pickled Cauliflower](pickled_cauliflower.md)
 * [Pickled Peppers](pickled_peppers.md)
+* [Quick Pickles](quick_pickles.md)
 * [Saskatoon Jam](saskatoon_jam.md)
 * [Strawberry Jam](strawberry_jam.md)
 * [Tasso Ham](tasso_ham.md)

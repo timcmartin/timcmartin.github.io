@@ -13,3 +13,9 @@ Recipes that I haven't tried yet, but am saving for posterity.
 - [Grown Up Grilled Cheese](grown_up_grilled_cheese.md)
 - [Hellman's Mayo Clone](hellmans.md)
 - [Helluva Good Dip](helluva_good_dip.md)
+
+* Milk Street:
+  * Chicken Soup with Ricotta Dumplings (p 88)
+    * Tried it - pretty good, kinda bland.
+    * Worth a second try.
+  * Chicken and Rice Noodles in Ginger-Hoisin Broth (p 71)

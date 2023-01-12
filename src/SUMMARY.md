@@ -159,6 +159,7 @@
     - [Maraschino Cherries](preserving/maraschino.md)
     - [Pickled Cauliflower](preserving/pickled_cauliflower.md)
     - [Pickled Peppers](preserving/pickled_peppers.md)
+    - [Quick Pickles](preserving/quick_pickles.md)
     - [Saskatoon Jam](preserving/saskatoon_jam.md)
     - [Strawberry Jam](preserving/strawberry_jam.md)
     - [Tasso Ham](preserving/tasso_ham.md)
