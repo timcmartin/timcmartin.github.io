@@ -108,6 +108,7 @@
     - [Ground Beef Chili](mains/ground_beef_chili.md)
     - [Grilled Pizza](mains/grilled_pizza.md)
     - [Halloumi Caesar Salad](mains/halloumi_caesar_salad.md)
+    - [Ham with Pineapple](mains/ham_with_pineapple.md)
     - [Hoisin Pork Lettuce Wraps](mains/hoisin_pork_lettuce_wraps.md)
     - [Huevos Rancheros](mains/huevos_rancheros.md)
     - [Jerk Chicken](mains/jerk_chicken.md)
