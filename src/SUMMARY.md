@@ -183,6 +183,7 @@
     - [Fluffy Rice](sides/fluffy_rice.md)
     - [Fondant Potatoes](sides/fondant_potatoes.md)
     - [French Fries](sides/french_fries.md)
+    - [Frijoles Charros](sides/frijoles_charros.md)
     - [Garlic Bread](sides/garlic_bread.md)
     - [Glazed Carrots](sides/glazed_carrots.md)
     - [Hamburger Buns](sides/hamburger_buns.md)

@@ -12,6 +12,7 @@
 * [Creamed Corn](creamed_corn.md)
 * [Crock Pot Potato Casserole](potato_casserole.md)
 * [French Fries](french_fries.md)
+* [Frijoles Charros](frijoles_charros.md)
 * [Fluffy Rice](fluffy_rice.md)
 * [Fondant Potatoes](fondant_potatoes.md)
 * [Garlic Bread](garlic_bread.md)
