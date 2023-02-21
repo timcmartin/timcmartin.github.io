@@ -5,9 +5,11 @@ This book contains my favourite recipes, collected from various sources over tim
 I have tried to remember to include the source whenever possible, but when in doubt, check out [Dinner With Julie](http://www.dinnerwithjulie.com).
 
 ## Conversions
+
 ### Anchovy Paste
 * 1/2 teaspoon of anchovy paste = 1 anchovy fillet
 * [Cook's Illustrated Notes](https://www.cooksillustrated.com/how_tos/10002-swapping-anchovy-paste-for-fillets)
+
 ### Altitude
 * Calgary is at 3500 feet -> add 10 minutes processing time to boiling water canning (from sea level).
 * Water boils at 212 F (sea level) 205 F (Calgary) - subtract 7 degrees from target temps.
@@ -29,6 +31,13 @@ I have tried to remember to include the source whenever possible, but when in do
 | 4 tablespoons (1/2 stick, or 1/4 cup)    | 2        | 57      |
 | 8 tablespoons (1 stick, or 1/2 cup)      | 4        | 113     |
 | 16 tablespoons (2 sticks, or 1 cup)      | 8        | 227     |
+
+| Slow Cooker Time                  | Pressure Cooker Time |
+|-----------------------------------|----------------------|
+| 10 hours on low / 5 hours on high | 30 minutes on high   |
+| 8 hours on low / 4 hours on high  | 24 minutes on high   |
+| 6 hours on low / 3 hours on high  | 18 minutes on high   |
+| 4 hours on low / 2 hours on high  | 12 minutes on high   |
 
 ## Notes
 * Cooks Illustrated Granola bars -> one bag of apricots
