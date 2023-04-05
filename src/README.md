@@ -39,6 +39,17 @@ I have tried to remember to include the source whenever possible, but when in do
 | 6 hours on low / 3 hours on high  | 18 minutes on high   |
 | 4 hours on low / 2 hours on high  | 12 minutes on high   |
 
+
+| Infrared Thermometer on Pan | Temp        |
+|-----------------------------|-------------|
+| Pancake Griddle             | 365         |
+| Omelet                      | 250         |
+| Outdoor Pizza Oven          | 700 - 750   |
+| Steak                       | 450         |
+| Toasting Nuts & Breadcrumbs | 325 or less |
+| Yogurt                      | 100 - 110   |
+| Proof Bread                 | 75          |
+
 ## Notes
 * Cooks Illustrated Granola bars -> one bag of apricots
 * https://www.youtube.com/watch?v=GUrA24dd7y

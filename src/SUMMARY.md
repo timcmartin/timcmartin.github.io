@@ -29,6 +29,7 @@
     - [Parker House Rolls](bread/parker_house_rolls.md)
     - [Perfect Loaf Sourdough](bread/pl_sourdough.md)
     - [Sandwich Bread](bread/sandwich_bread.md)
+    - [Sourdough Experiment](sourdough_experiment.md)
     - [Tartine Bread Sourdough](bread/tb_sourdough.md)
     - [Weeknight Sourdough](bread/weeknight_sourdough.md)
 - [Condiments, Spices & Sauces](condiments/README.md)

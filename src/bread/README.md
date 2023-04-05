@@ -10,5 +10,6 @@
 * [Parker House Rolls](parker_house_rolls.md)
 * [Perfect Loaf Sourdough](pl_sourdough.md)
 * [Sandwich Bread](sandwich_bread.md)
+* [Sourdough Experiment](sourdough_experiment.md)
 * [Tartine Bread Sourdough](tb_sourdough.md)
 * [Weeknight Sourdough](weeknight_sourdough.md)
