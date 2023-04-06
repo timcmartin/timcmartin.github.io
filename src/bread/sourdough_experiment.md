@@ -5,8 +5,19 @@
 1. Original Jan 11 2021 starter, 60g starter, 60g water, 60g flour (50/50 bread/whole wheat)
 2. Mark Hart: 50g 110 degree water, 50g bread flour, 1/2 tsp diastatic malt powder.
 3. Mark Hart: 50g 110 degree water, 50g all purpose flour, 1/2 tsp diastatic malt powder.
+4. Try to keep at 90 degrees.
 
-* Put in at 90 degree proof
+| Day 1       | Kept at 90 degrees most of the day (proof feature)                         | Result                                      |
+|-------------|----------------------------------------------------------------------------|---------------------------------------------|
+| My Starter  | 60g starter, 60g 110degree water, 60 g sourdough blend (50/50)             | Was dormant, got bubbly, rose a little      |
+| Bread Flour | 50g 110 degree water, 50g bread flour, 1/2 tsp diastatic malt powder       | Got little bubbles, seemed a little tighter |
+| AP Flour    | 50g 110 degree water, 50g all purpose flour, 1/2 tsp diastatic malt powder | Got little bubles, seemd a bit looser       |
+
+| Day 2       | Trying to keep at 90 degrees all day                                       | Result |
+|-------------|----------------------------------------------------------------------------|--------|
+| My Starter  | 60g starter, 60g 110degree water, 60 g sourdough blend (50/50)             |        |
+| Bread Flour | 60g 110 degree water, 60g bread flour, 1/2 tsp diastatic malt powder       |        |
+| AP Flour    | 50g 110 degree water, 50g all purpose flour, 1/2 tsp diastatic malt powder |        |
 
 ## Scratchings Method
 
