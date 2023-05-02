@@ -1,5 +1,7 @@
 # Egg Bites
 
+> 14 eggs works perfect for my silicone muffin pans.
+
 ## Ingredients
 * 18 eggs
 * 1 cup full fat cottage cheese

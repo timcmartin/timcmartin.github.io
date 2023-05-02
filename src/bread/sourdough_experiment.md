@@ -13,11 +13,23 @@
 | Bread Flour | 50g 110 degree water, 50g bread flour, 1/2 tsp diastatic malt powder       | Got little bubbles, seemed a little tighter |
 | AP Flour    | 50g 110 degree water, 50g all purpose flour, 1/2 tsp diastatic malt powder | Got little bubles, seemd a bit looser       |
 
-| Day 2       | Trying to keep at 90 degrees all day                                       | Result |
-|-------------|----------------------------------------------------------------------------|--------|
-| My Starter  | 60g starter, 60g 110degree water, 60 g sourdough blend (50/50)             |        |
-| Bread Flour | 60g 110 degree water, 60g bread flour, 1/2 tsp diastatic malt powder       |        |
-| AP Flour    | 50g 110 degree water, 50g all purpose flour, 1/2 tsp diastatic malt powder |        |
+| Day 2       | Trying to keep at 90 degrees all day                                       | Result             |
+|-------------|----------------------------------------------------------------------------|--------------------|
+| My Starter  | 60g starter, 60g 110degree water, 60 g sourdough blend (50/50)             | Kinda back to life |
+| Bread Flour | 60g 110 degree water, 60g bread flour, 1/2 tsp diastatic malt powder       | Rose about hafway  |
+| AP Flour    | 50g 110 degree water, 50g all purpose flour, 1/2 tsp diastatic malt powder | Not much rise      |
+
+| Day 3       | Trying to keep at 90 degrees all day                                       | Result       |
+|-------------|----------------------------------------------------------------------------|--------------|
+| My Starter  | 60g starter, 60g 110degree water, 60 g sourdough blend (50/50)             | Back to Life |
+| Bread Flour | Left alone                                                                 |              |
+| AP Flour    | Left alone                                                                 |              |
+
+| Day 4       | Trying to keep at 90 degrees all day                           | Result             |
+|-------------|----------------------------------------------------------------|--------------------|
+| My Starter  | 60g starter, 60g 110degree water, 60 g sourdough blend (50/50) | Back to Life       |
+| Bread Flour | Teaspoon of starter, 100g water, 100g flour                    | Good rise, bubbly |
+| AP Flour    | Discarded                                                      |                    |
 
 ## Scratchings Method
 
