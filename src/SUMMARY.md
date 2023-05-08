@@ -20,6 +20,7 @@
     - [Percolator Coffee](beverages/percolator_coffee.md)
 - [Bread](bread/README.md)
     - [Bagels](bread/bagels.md)
+    - [Corn Tortillas](bread/corn_tortillas.md)
     - [Daily Sourdough](bread/daily_sourdough.md)
     - [Easy Biscuits](bread/easy_biscuits.md)
     - [English Muffins](bread/english_muffins.md)
