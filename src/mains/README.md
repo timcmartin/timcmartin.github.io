@@ -13,6 +13,7 @@
 - [Cassoulet](cassoulet.md)
 - [Chicken And Sliders](chicken_and_sliders.md)
 - [Chicken Pot Pie](chicken_pot_pie.md)
+- [Chicken Souvlaki](chicken_souvlaki.md)
 - [Chicken Vindaloo](chicken_vindaloo.md)
 - [Coconut Curry Shrimp](coconut_curry_shrimp.md)
 - [Deconstructed Turkey](deconstructed_turkey.md)
