@@ -8,14 +8,14 @@ Makes 8 500ml (1 pint) Jars
 > The Brine is doubled here from the CK recipe as I found I needed it.
 
 ## Ingredients
-| Single Batch                | Double Batch                        | Triple Batch                           |
-|-----------------------------|-------------------------------------|----------------------------------------|
-| 5 lbs cucumbers             | 10 lbs cucumbers                    | 15 lbs cucumbers                       |
-| 16 Garlic Cloves            | 32 Garlic Cloves                    | 48 garlic cloves                       |
-| 1 large bunch of fresh dill | 2 large bunches of fresh dill       | 3 large bunches of fresh dill          |
-| 8 cups of water (2 Litres)  | 16 cups of water (4 Litres)         | 6 Litres of water                      |
-| 5 1/2 cups pickling vinegar | 2 Litres + 3 cups pickling vinegar  | 3 Litres + 1/2 cup of pickling vinegar |
-| 2/3 cup of pickling salt    | 1 1/3 cup of pickling salt          | 2 cups of pickling salt                |
+| Single Batch                | Double Batch                       | Triple Batch                  |
+|-----------------------------|------------------------------------|-------------------------------|
+| 5 lbs cucumbers             | 10 lbs cucumbers                   | 15 lbs cucumbers              |
+| 16 Garlic Cloves            | 32 Garlic Cloves                   | 48 garlic cloves              |
+| 1 large bunch of fresh dill | 2 large bunches of fresh dill      | 3 large bunches of fresh dill |
+| 8 cups of water (2 Litres)  | 16 cups of water (4 Litres)        | 6 Litres of water             |
+| 5 1/2 cups pickling vinegar | 2 Litres + 3 cups pickling vinegar | 4 Litres pickling vinegar     |
+| 2/3 cup of pickling salt    | 1 1/3 cup of pickling salt         | 2 cups of pickling salt       |
 
 ## Directions
 1. Scrub cukes and trim the blossom end (opposite end to stem).

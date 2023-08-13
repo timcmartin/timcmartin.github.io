@@ -120,3 +120,10 @@
 | Date            | Weight | Yield                               | Description         | Notes                                                                             |
 |-----------------|--------|-------------------------------------|---------------------|-----------------------------------------------------------------------------------|
 | Friday July 8   | 21 lbs | 16 pints                            | Strawberry Jam      | 10 * 1 Pint, 12 * 250 mL                                                          |
+
+## 2023
+
+| Date               | Weight                       | Yield        | Description    | Notes                                                                                  |
+|--------------------|------------------------------|--------------|----------------|----------------------------------------------------------------------------------------|
+| Monday July 17     | 10 lbs (2 * 8 quart baskets) | 3.5 Litres   | Strawberry Jam | 3 * 1 Pint, 8 * 250 ml.  Did it in 2 batches.                                          |
+| Saturday August 13 | 20 lbs                       | 15.25 Litres | Dill Pickles   | 5 * 1L, 9 * 750 ml, 7 * 500 ml.  Quadrupled the brine, but only needed a double batch. |
