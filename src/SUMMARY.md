@@ -17,6 +17,7 @@
     - [Cold Brew Coffee](beverages/cold_brew_coffee.md)
     - [French Press Coffee](beverages/french_press.md)
     - [Irish Cream](beverages/irish_cream.md)
+    - [Paloma](beverages/paloma.md)
     - [Percolator Coffee](beverages/percolator_coffee.md)
 - [Bread](bread/README.md)
     - [Bagels](bread/bagels.md)
