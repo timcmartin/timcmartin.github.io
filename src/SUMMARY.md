@@ -184,6 +184,7 @@
     - [Corn Bread](sides/corn_bread.md)
     - [Creamed Corn](sides/creamed_corn.md)
     - [Crock Pot Potato Casserole](sides/potato_casserole.md)
+    - [Dauphinoise Potatoes](sides/dauphinoise_potatoes.md)
     - [Fluffy Rice](sides/fluffy_rice.md)
     - [Fondant Potatoes](sides/fondant_potatoes.md)
     - [French Fries](sides/french_fries.md)

@@ -11,6 +11,7 @@
 * [Corn Bread](corn_bread.md)
 * [Creamed Corn](creamed_corn.md)
 * [Crock Pot Potato Casserole](potato_casserole.md)
+* [Dauphinoise Potatoes](dauphinoise_potatoes.md)
 * [French Fries](french_fries.md)
 * [Frijoles Charros](frijoles_charros.md)
 * [Fluffy Rice](fluffy_rice.md)

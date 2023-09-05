@@ -16,3 +16,19 @@
 ## Notes
 * This dip will keep in the refrigerator for approximately one week.
 * Makes 1.5 cups of dip.
+
+# Blue Cheese Dressing
+
+> This is from chef Frank on Epicurious.
+
+## Ingredients
+* 113 g Blue Cheese crumbles (1 pkg)
+* 170 g Sour Cream
+* 113 g Mayo
+* 1/4 tsp Garlic Powder
+* 2 Tbs Cider Vinegar
+* 1/2 C milk
+* Salt and Pepper
+
+## Directions
+1. Mix and refrigerate.
