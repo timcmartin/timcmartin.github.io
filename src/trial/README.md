@@ -19,3 +19,5 @@ Recipes that I haven't tried yet, but am saving for posterity.
     * Tried it - pretty good, kinda bland.
     * Worth a second try.
   * Chicken and Rice Noodles in Ginger-Hoisin Broth (p 71)
+* Halloween Salad:
+  * https://foxeslovelemons.com/halloween-salad/
