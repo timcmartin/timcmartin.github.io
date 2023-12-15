@@ -26,3 +26,15 @@
 2. Add garlic, salt and beef and cook for 3 - 4 minutes until browned.
 3. Add all taco seasoning, stir and beef broth.
 4. Simmer until thick
+
+## Another Mix (without corn starch)
+* 3 Tbs chili powder
+* 1 1/2 Tbs ground cumin
+* 3 teaspoons garlic powder
+* 3 teaspoons paprika
+* 1 1/2 teaspoons dried oregano
+* 1 1/2 teaspoons salt
+* 1 1/1 teaspoons onion powder
+* 3/4 teaspoon black pepper
+
+* Use 3 Tbs per 1 pound of meat
