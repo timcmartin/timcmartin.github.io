@@ -29,7 +29,7 @@
 
 ### Directions
 1. Add all ingredients to sauce pan.
-2. Med heat, stirring occasionally until 236 - 239 degrees (sea level, 229 - 232 Calgary)
+2. Med heat, stirring occasionally until 236 - 239 degrees (sea level, 228 - 231 Calgary)
 3. Pour right onto crust, smooth into corners.
 4. Let cool at least 1 1/2 hours (completely cooled).
 
