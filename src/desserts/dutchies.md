@@ -2,7 +2,7 @@
 
 [Chatelaine - Dutchess Donuts](https://www.chatelaine.com/recipe/kid-friendly/the-dutchess-doughnut-recipe/)
 
-## Intredients
+## Ingredients
 
 * 1 cup sultana raisins
 * 1 cup 2% milk
