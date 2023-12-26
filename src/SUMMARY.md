@@ -201,6 +201,7 @@
     - [Potato Salad](sides/potato_salad.md)
     - [Scalloped Potatoes](sides/scalloped_potatoes.md)
     - [Steakhouse Salad](sides/steakhouse_salad.md)
+    - [Stuffing / Dressing](sides/stuffing.md)
     - [Tortillas](sides/tortillas.md)
     - [Una Kale Caesar](sides/una_caesar.md)
     - [Vegetable Medley](sides/vegetable_medley.md)

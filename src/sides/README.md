@@ -28,6 +28,7 @@
 * [Potato Salad](potato_salad.md)
 * [Scalloped Potatoes](scalloped_potatoes.md)
 * [Steakhouse Salad](steakhouse_salad.md)
+* [Stuffing / Dressing](stuffing.md)
 * [Tortillas](tortillas.md)
 * [Una Kale Caesar](una_caesar.md)
 * [Vegetable Medley](vegetable_medley.md)

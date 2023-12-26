@@ -71,23 +71,23 @@
   * [X] Cranberry Sauce
   * [X] Orange Salad
   * [X] Green Salad
-  * [ ] Pickles & Olives:
-    * [ ] Stuffed Olives
-    * [ ] Pickled Onions
-    * [ ] Gherkins
-    * [ ] Sweet Pickles
-    * [ ] Dill Pickles
-  * [ ] Butter
+  * [X] Pickles & Olives:
+    * [X] Stuffed Olives
+    * [X] Pickled Onions
+    * [X] Gherkins
+    * [X] Sweet Pickles
+    * [X] Dill Pickles
+  * [X] Butter
 
 ### Dishes
-* [ ] Platter (Turkey)
-* [ ] Bowl (Stuffing)
-* [ ] Gravy Boat
-* [ ] Bowl (Potatoes)
-* [ ] Bowl (Brussels Sprouts)
-* [ ] Bowl (Rolls)
-* [ ] Butter Dish
-* [ ] Pickle Tray
+* [X] Platter (Turkey)
+* [X] Bowl (Stuffing)
+* [X] Gravy Boat
+* [X] Bowl (Potatoes)
+* [X] Bowl (Brussels Sprouts)
+* [X] Bowl (Rolls)
+* [X] Butter Dish
+* [X] Pickle Tray
 * [X] Bowl (Cranberry)
 * [X] Bowl (Orange Salad)
 * [X] Dish (Green Salad)
@@ -114,3 +114,14 @@
 * [ ] 2:45:
   * [ ] Rolls in
   * [ ] Sprouts on
+
+## Christmas 2023
+
+### Menu
+* Turkey -> BBQ at 350, about 2 hours.  Diffuser and drip pan, no wood smoke.
+* Stuffing -> Put it in when I pulled the turkey to rest.
+* Veg Medley -> Put it in when I pulled the turkey to rest.
+* Gravy -> Made the base the day before, finished it when I pulled the turkey to rest.
+* Mashed Potatoes -> Started them when I pulled the turkey to rest.  Big Boursin, butter, cream, s & p.
+* Orange Salad
+* Green Salad
