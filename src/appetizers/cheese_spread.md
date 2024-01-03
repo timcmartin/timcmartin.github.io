@@ -1,5 +1,9 @@
 # Latin Quarter Cheese Spread
+
+> 2023: Used Kozlik's X-Hot Horseradish from the Cookbook Company
+
 ![Original Recipe](img/cheese_spread.png)
+
 
 ## Spread
 - 1 lb Medium Cheddar (Imperial 2 Tubs - room temp)
