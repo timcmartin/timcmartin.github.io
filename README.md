@@ -45,3 +45,4 @@ git checkout main
 ## TODO:
 
 * CI Integration to run script at Github instead of locally.
+* Testing new script
