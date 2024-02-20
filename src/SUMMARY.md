@@ -31,7 +31,7 @@
     - [Parker House Rolls](bread/parker_house_rolls.md)
     - [Perfect Loaf Sourdough](bread/pl_sourdough.md)
     - [Sandwich Bread](bread/sandwich_bread.md)
-    - [Sessame Buns](bread/sesame_buns.md)
+    - [Sesame Buns](bread/sesame_buns.md)
     - [Sourdough Experiment](bread/sourdough_experiment.md)
     - [Tartine Bread Sourdough](bread/tb_sourdough.md)
     - [Weeknight Sourdough](bread/weeknight_sourdough.md)
