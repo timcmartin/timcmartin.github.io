@@ -206,6 +206,7 @@
     - [Tortillas](sides/tortillas.md)
     - [Una Kale Caesar](sides/una_caesar.md)
     - [Vegetable Medley](sides/vegetable_medley.md)
+    - [Whole Roasted Cauliflower](sides/whole_roasted_cauliflower.md)
     - [Yorkshire Pudding](sides/yorkshire_pudding.md)
 - [Snacks](snacks/README.md)
     - [Beef Jerky](snacks/beef_jerky.md)

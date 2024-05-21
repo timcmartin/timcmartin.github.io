@@ -32,4 +32,5 @@
 * [Tortillas](tortillas.md)
 * [Una Kale Caesar](una_caesar.md)
 * [Vegetable Medley](vegetable_medley.md)
+* [Whole Roasted Cauliflower](whole_roasted_cauliflower.md)
 * [Yorkshire Pudding](yorkshire_pudding.md)
