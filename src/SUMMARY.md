@@ -68,6 +68,7 @@
 - [Desserts](desserts/README.md)
   - [Apple Crumble](desserts/apple_crumble.md)
   - [Banana Bread](desserts/banana_bread.md)
+  - [Blueberry Buckle](desserts/blueberry_buckle.md)
   - [Blueberry Mug Cake](desserts/blueberry_mug_cake.md)
   - [Butter Tart Pie](desserts/buttertart_pie.md)
   - [Cheesecake in a Jar](desserts/cheesecake.md)
