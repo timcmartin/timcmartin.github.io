@@ -1,7 +1,14 @@
 # Coconut Rice
+
 [Source](http://allrecipes.com/recipe/56059/asian-coconut-rice/)
 
+## Notes
+
+- This seems to work pretty well in the Breville Risotto machine.
+- Same recipe - rinse rice.
+
 ## Ingredients
+
 - 1 400 mL can of coconut milk
 - 1 1/4 cups of water
 - 1 teaspoon of sugar
@@ -9,6 +16,7 @@
 - 1 1/2 cups of jasmine rice
 
 ## Directions
+
 1. In a saucepan, combine coconut milk, water, sugar, and salt.
 2. Stir until sugar is dissolved.
 3. Stir in rice.
