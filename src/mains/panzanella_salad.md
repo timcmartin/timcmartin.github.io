@@ -5,7 +5,7 @@
 ## Ingredients
 
 - 1 1/2 - 2 pounds boneless, skinless chicken breasts, trimmed
-- 1/3 cup tablespoons water
+- 1/3 cup water
 - 3 tablespoons fish sauce
 - 2 tablespoons honey
 - 1 teaspoon plus 1/4 teaspoon table salt, divided
