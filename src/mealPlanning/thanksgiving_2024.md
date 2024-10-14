@@ -5,6 +5,7 @@
 - Cooked turkey on the charcoal grill without adding any wood chunks. It had a
   pleasant amount of smoke.
 - Took about 2 1/2 hours (kept it between 350 and 400)
+- Put all of the dishes on the island, only s & p, butter on the table.
 
 ## Methods
 
@@ -43,6 +44,12 @@
 - Made [Jason's Grandma's 2 hour buns](../sides/buns.md)
 - Silicon muffin tray needs to be sprayed!
 - They are smaller than my old one - try making 24 instead of 12.
+
+### Pickle Tray
+
+- Used new Sophie Tray and Dip set.
+- Olives in the dip bowl, pickles, pickled onions, pickled beets,
+  pickled beans and carrots around.
 
 ## Menu
 
