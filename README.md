@@ -4,13 +4,16 @@ A collection of my favourite recipes.
 
 ## Notes
 
-* Migrated from Gitbook to mdbook.
-* `gh-pages` branch serves the Github pages content.
-* This repository is also duplicated under timcmartin.github.io as I don't have other content.
-* Available at https://timcmartin.github.io and https://timcmartin.github.io/recipes
-* Run `recipebook` script on local machine to build and push changes merged into master.
+- Migrated from Gitbook to mdbook.
+- `gh-pages` branch serves the Github pages content.
+- This repository is also duplicated under timcmartin.github.io as I don't have
+  other content.
+- Available at <https://timcmartin.github.io> and
+  <https://timcmartin.github.io/recipes>
+- Run `recipebook` script on local machine to build and push changes merged
+  into master.
 
-```
+```bash
 git checkout main
 
 git push --force origin
@@ -36,13 +39,13 @@ git checkout main
 
 ## Running Locally
 
-* `mdbook serve`
+- `mdbook serve`
 
 ## Linking Recipes
 
-* Use the following pattern: `{{#include ../mains/meatballs.md}}`
+- Use the following pattern: `{{#include ../mains/meatballs.md}}`
 
-## TODO:
+## TODO
 
-* CI Integration to run script at Github instead of locally.
-* Testing new script
+- CI Integration to run script at Github instead of locally.
+- Testing new script

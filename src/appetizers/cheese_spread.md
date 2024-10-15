@@ -4,8 +4,8 @@
 
 ![Original Recipe](img/cheese_spread.png)
 
-
 ## Spread
+
 - 1 lb Medium Cheddar (Imperial 2 Tubs - room temp)
 - 3/4 Cup Latin Quarter Dressing
 - 2 Tbsp Horse Radish
@@ -13,6 +13,7 @@
 - Process until smooth
 
 ## Latin Quarter Dressing
+
 - 1 Clove Garlic
 - 1 Cup Ketchup
 - 2 Tbsp Sugar
