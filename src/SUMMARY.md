@@ -236,6 +236,7 @@
   - [Breville Fast Slow Cooker Chicken Stock](soups/chicken_stock.md)
   - [Farmhouse Chicken Noodle Soup](soups/farmhouse_chicken_noodle_soup.md)
   - [French Onion Soup](soups/french_onion_soup.md)
+  - [Minestrone Soup](soups/minestrone_soup.md)
   - [Mushroom Soup](soups/mushroom.md)
   - [Vegetable Soup](soups/vegetable_soup.md)
 - [To Try](trial/README.md)
