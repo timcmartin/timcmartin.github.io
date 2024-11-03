@@ -72,6 +72,7 @@
   - [Blueberry Buckle](desserts/blueberry_buckle.md)
   - [Blueberry Mug Cake](desserts/blueberry_mug_cake.md)
   - [Butter Tart Pie](desserts/buttertart_pie.md)
+  - [Caramel Apple Crisp](desserts/caramel_apple_crisp.md)
   - [Cheesecake in a Jar](desserts/cheesecake.md)
   - [Chocolate Pudding](desserts/chocolate_pudding.md)
   - [Chocolate Zucchini Bread](desserts/chocolate_zucchini.md)

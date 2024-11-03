@@ -5,6 +5,7 @@
 - [Blueberry Buckle](blueberry_buckle.md)
 - [Blueberry Mug Cake](blueberry_mug_cake.md)
 - [Butter Tart Pie](buttertart_pie.md)
+- [Caramel Apple Crisp](caramel_apple_crisp.md)
 - [Cheesecake in a Jar](cheesecake.md)
 - [Chocolate Pudding](chocolate_pudding.md)
 - [Chocolate Zucchini Bread](chocolate_zucchini.md)
