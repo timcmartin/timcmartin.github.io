@@ -85,6 +85,7 @@
   - [Mincemeat](desserts/mincemeat.md)
   - [Pie Dough](desserts/pie_dough.md)
   - [Pouding Chomeur](desserts/pouding_chomeur.md)
+  - [Pumpkin Bread](desserts/pumpkin_bread.md)
   - [Pumpkin Pie](desserts/pumpkin_pie.md)
   - [Salted Caramel Chocolate Stack Bars](desserts/salted_caramel_bars.md)
   - [Salted Peanut And Caramel Tart](desserts/salted_peanut_caramel_tart.md)
