@@ -11,7 +11,7 @@
 - 2 celery stalks, finely diced (about 3 ounces; 85g)
 - 1 tablespoon (15ml) minced fresh rosemary leaves
 - 2 medium cloves garlic, minced (about 2 teaspoons; 12g)
-- 1 pound (450g) ripe Roma tomatoes, peeled, seeded, and chopped
+- 1 pound (450g) or can of ripe Roma tomatoes, peeled, seeded, and chopped.
 - 2 cups of canned cannellini beans
 - 1 Parmesan rind
 
@@ -38,9 +38,7 @@
 4. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add
    tomatoes and cook, stirring, until most of their moisture has evaporated and
    the mixture starts to fry. (The sound should change from a sputtering simmering
-   sound to a sharper crackle as vegetables start to fry.) Add reserved
-   bean-cooking liquid, beans, and Parmesan rind, if using. Let broth simmer for
-   at least 10 minutes.
+   sound to a sharper crackle as vegetables start to fry).
 5. Add Parmesan Rind and drain and rinse 2 cups of canned beans and add them to
    the soup, along with 2 quarts of homemade vegetable stock, or store-bought
    or homemade low-sodium chicken stock. Let simmer for 30 minutes before
