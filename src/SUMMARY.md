@@ -26,6 +26,7 @@
   - [Daily Sourdough](bread/daily_sourdough.md)
   - [Easy Biscuits](bread/easy_biscuits.md)
   - [English Muffins](bread/english_muffins.md)
+  - [Four Small Loaves](bread/four_small_loaves.md)
   - [Gravity Cheese Biscuits](bread/gravity_cheese_biscuits.md)
   - [Naan](bread/naan.md)
   - [No-Knead Bread](bread/no_knead_bread.md)
