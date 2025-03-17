@@ -1,13 +1,14 @@
 # Four Small Loaves
 
 > Youtube
-> Needed to add more water to get the dough to come together.
+> Needed to add more water to get the dough to come together - have adjusted weights.
+> Got a better crust by not turning the oven down for the last 10 minutes.
 
 ## Ingredients
 
-- 1 c (220 ml) water
+- 1 c (236 grams) water
 - 1/2 tsp yeast
-- 2 1/2 c (320 g) flour
+- 2 1/2 c (312 grams) flour
 - 1 tsp salt
 
 ## Directions
