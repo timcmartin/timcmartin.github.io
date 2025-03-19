@@ -253,3 +253,4 @@
   - [Hellman's Mayo Clone](trial/hellmans.md)
   - [Helluva Good Dip](trial/helluva_good_dip.md)
   - [No Knead Raisin Cinnamon Bread](trial/raisin_cinnamon.md)
+  - [Nacho Cheese](trial/nacho_cheese.md)
