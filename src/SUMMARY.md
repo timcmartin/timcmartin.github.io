@@ -167,6 +167,7 @@
   - [Christmas 2019](mealPlanning/christmas_2019.md)
   - [Christmas 2023](mealPlanning/christmas_2023.md)
   - [Thanksgiving 2024](mealPlanning/thanksgiving_2024.md)
+  - [Easter 2025](mealPlanning/easter_2025.md)
 - [Miscellaneous](misc/README.md)
   - [Dog Food](misc/dog_food.md)
   - [Pill Pockets](misc/pill_pockets.md)
