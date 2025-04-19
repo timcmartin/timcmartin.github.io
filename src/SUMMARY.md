@@ -10,6 +10,7 @@
   - [Chicken Satay](appetizers/chicken_satay.md)
   - [Corn Dip](appetizers/corn_dip.md)
   - [Latin Quarter Cheese Spread](appetizers/cheese_spread.md)
+  - [Nacho Cheese](appetizers/nacho_cheese.md)
   - [Shrimp Cocktail](appetizers/shrimp_cocktail.md)
   - [Thai Shrimp Skewers](appetizers/shrimp_skewers.md)
 - [Beverages](beverages/README.md)
@@ -253,4 +254,3 @@
   - [Hellman's Mayo Clone](trial/hellmans.md)
   - [Helluva Good Dip](trial/helluva_good_dip.md)
   - [No Knead Raisin Cinnamon Bread](trial/raisin_cinnamon.md)
-  - [Nacho Cheese](trial/nacho_cheese.md)

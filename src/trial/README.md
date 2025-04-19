@@ -13,7 +13,6 @@ Recipes that I haven't tried yet, but am saving for posterity.
 - [Hellman's Mayo Clone](hellmans.md)
 - [Helluva Good Dip](helluva_good_dip.md)
 - [No Knead Raisin Cinnamon Bread](raisin_cinnamon.md)
-- [Nacho Cheese](nacho_cheese.md)
 
 - Milk Street:
   - Chicken Soup with Ricotta Dumplings (p 88)
