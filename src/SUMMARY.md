@@ -209,6 +209,7 @@
   - [Garlic Bread](sides/garlic_bread.md)
   - [Glazed Carrots](sides/glazed_carrots.md)
   - [Golden Rice](sides/golden_rice.md)
+  - [Green Beans](sides/green_beans.md)
   - [Hamburger Buns](sides/hamburger_buns.md)
   - [Home Fries](sides/home_fries.md)
   - [Jalapeno Cheddar Corn Bread](sides/jalapeno_cheddar_corn_bread.md)
