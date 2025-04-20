@@ -149,6 +149,7 @@
   - [Shepherd's Pie](mains/shepherds_pie.md)
   - [Shrimp Boil](mains/shrimp_boil.md)
   - [Shrimp Burgers](mains/shrimp_burgers.md)
+  - [Smoke Roasted Ham](mains/smoke_roasted_ham.md)
   - [Smothered Chicken](mains/smothered_chicken.md)
   - [Spaghetti Squash](mains/spaghetti_squash.md)
   - [Stovetop Macaroni and Cheese](mains/macaroni_and_cheese.md)
