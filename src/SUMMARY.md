@@ -42,7 +42,7 @@
   - [BBQ Rub](condiments/bbq_rub.md)
   - [Blue Cheese Dressing](condiments/blue_cheese_dressing.md)
   - [Caesar Dressing](condiments/caesar_dressing.md)
-  - [Carolina Gold Mustard Sauce](condiments/carolina_gold_mustard_sauce.md)
+  - [Herb Vinaigrette](condiments/herb_vinaigrette.md)
   - [Cheese Sauce](condiments/cheese_sauce.md)
   - [Chili Sauce](condiments/chili_sauce.md)
   - [Chimichurri](condiments/chimichurri.md)
