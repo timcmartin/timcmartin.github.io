@@ -216,6 +216,7 @@
   - [Hamburger Buns](sides/hamburger_buns.md)
   - [Home Fries](sides/home_fries.md)
   - [Jalapeno Cheddar Corn Bread](sides/jalapeno_cheddar_corn_bread.md)
+  - [Mexican Beans](sides/mexican_beans.md)
   - [Mexican Rice](sides/mexican_rice.md)
   - [Mom's Green Salad](sides/moms_green_salad.md)
   - [Orange Jello Salad](sides/orange_jello_salad.md)
