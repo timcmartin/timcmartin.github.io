@@ -1,7 +1,7 @@
 # Soups
 
 - [Avgolemono](avgolemono.md)
-- [Breville Fast Slow Cooker Chicken Stock](chicken_stock.md)
+- [Breville Fast Slow Cooker Chicken Stock](./chicken_stock.md)
 - [Butternut Squash, Sweet Potato, Lentil](butternut_squash.md)
 - [Cauliflower Soup](cauliflower.md)
 - [Farmhouse Chicken Noodle Soup](farmhouse_chicken_noodle_soup.md)

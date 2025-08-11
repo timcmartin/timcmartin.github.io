@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD024 -->
+
 # Vietnamese Dipping Sauces
 
 ## Nuoc Cham (Vietnamese Dipping Sauce)
@@ -9,7 +11,7 @@
 - 2 tbsp lime juice
 - 2-3 tbsp fish sauce
 - 1 clove garlic, finely sliced
-- 1-3 red birdseye chilli, finely chopped
+- 1-3 red birdseye chili, finely chopped
 - splash rice vinegar, to taste
 
 ### Directions
@@ -18,7 +20,7 @@
    sugar dissolves. Remove from the heat.
 2. Add in lime juice, then gradually add the fish sauce, tasting as you go until
    you get the right balance of sweet, salty, sour.
-3. Stir in garlic and chilli, then some rice vinegar to taste.
+3. Stir in garlic and chili, then some rice vinegar to taste.
 4. Set aside to allow flavours to develop, then serve or store in an airtight
    container in the refrigerator
 
@@ -31,7 +33,7 @@
 - 1/4 cup hoisin sauce
 - dash of fish sauce
 - juice of 1/2 lime
-- sriracha chilli sauce (optional)
+- sriracha chili sauce (optional)
 - chopped toasted peanuts, to garnish
 
 ### Directions

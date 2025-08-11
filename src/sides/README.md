@@ -28,7 +28,7 @@
 - [Mexican Rice](mexican_rice.md)
 - [Mom's Green Salad](moms_green_salad.md)
 - [Orange Jello Salad](orange_jello_salad.md)
-- [Potato Salad](potato_salad.md)
+- [Potato Salad](./potato_salad.md)
 - [Scalloped Potatoes](scalloped_potatoes.md)
 - [Steakhouse Salad](steakhouse_salad.md)
 - [Stuffing / Dressing](stuffing.md)

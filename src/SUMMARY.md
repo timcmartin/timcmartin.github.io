@@ -30,7 +30,7 @@
   - [Four Small Loaves](bread/four_small_loaves.md)
   - [Gravity Cheese Biscuits](bread/gravity_cheese_biscuits.md)
   - [Naan](bread/naan.md)
-  - [No-Knead Bread](bread/no_knead_bread.md)
+  - [No-Knead Bread](./bread/no_knead_bread.md)
   - [Parker House Rolls](bread/parker_house_rolls.md)
   - [Perfect Loaf Sourdough](bread/pl_sourdough.md)
   - [Sandwich Bread](bread/sandwich_bread.md)
