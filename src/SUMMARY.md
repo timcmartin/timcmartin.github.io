@@ -70,6 +70,7 @@
   - [Tomato Sauce](condiments/tomato_sauce.md)
   - [Turkey Gravy](condiments/turkey_gravy.md)
   - [Tzatziki](condiments/tzatziki.md)
+  - [Vietnamese Dipping Sauces](condiments/vietnamese_dipping_sauces.md)
 - [Desserts](desserts/README.md)
   - [Apple Crumble](desserts/apple_crumble.md)
   - [Banana Bread](desserts/banana_bread.md)
