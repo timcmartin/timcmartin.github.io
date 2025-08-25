@@ -141,8 +141,15 @@
 ## 2024
 
 - Didn't make notes, but believe that I followed the same as 2023.
+- These turned out great though - best yet.
 
 ## 2025
+
+- Added a bit more garlic and dill than I have in the past.
+- Bought 3 bunches of dill with the cukes - only needed 2.
+- Used about 2 of those mesh 5 pack of garlic.
+
+- Made the triple batch of brine, but the double would have worked.
 
 | Date             | Weight | Yield        | Description  | Notes                                                    |
 | ---------------- | ------ | ------------ | ------------ | -------------------------------------------------------- |

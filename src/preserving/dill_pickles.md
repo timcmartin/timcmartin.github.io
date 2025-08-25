@@ -4,9 +4,6 @@
 
 Makes close to 16 Litres of pickles.
 
-> I bought 3 bunches of fresh dill - only needed 2.
-> Made a triple batch of brine, I think a double batch would work.
-
 ### Ingredients
 
 | 20 Pound Batch                      |
@@ -21,13 +18,14 @@ Makes close to 16 Litres of pickles.
 ### Directions
 
 1. Scrub cukes and trim the blossom end (opposite end to stem).
-1. Prep canner and jars a la America's Test Kitchen.
-1. Brine: bring vinegar, water and salt to a low boil and brine becomes clear.
-1. Jars: 4 or 5 cloves of garlic, fresh dill, 1/4 tsp pickle crisp, few peppercorns, 1/4 tsp dill seed.
-1. Pack with cucumbers and ladle brine, leave 1/2 inch of headspace.
-1. Process for 20 mins in canner - start timer when boiling.
-1. Shut off heat and let sit in canner for 5 minutes before removing.
-1. Let cool 24 hours, wipe jars and check seal.
+2. Prep garlic and dill so that it's readt to go.
+3. Prep canner and jars a la America's Test Kitchen.
+4. Brine: bring vinegar, water and salt to a low boil and brine becomes clear.
+5. Jars: 4 or 5 cloves of garlic, fresh dill, 1/4 tsp pickle crisp, few peppercorns, 1/4 tsp dill seed.
+6. Pack with cucumbers and ladle brine, leave 1/2 inch of headspace.
+7. Process for 20 mins in canner - start timer when boiling.
+8. Shut off heat and let sit in canner for 5 minutes before removing.
+9. Let cool 24 hours, wipe jars and check seal.
 
 ## Original
 
