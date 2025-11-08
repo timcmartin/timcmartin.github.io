@@ -8,7 +8,7 @@
 
 ## Ingredients
 
-- 2 pounds (or 2 cups, 1 500 g bag) of dried black beans
+- 1 pound (or 2 cups, 1 500 g bag) of dried black beans
 - 4 cloves of garlic, peeled
 - 1 1/2 white onion, one peeled and halved, half diced
 - 2 bay leaves
