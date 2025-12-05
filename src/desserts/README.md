@@ -1,6 +1,7 @@
 # Desserts
 
 - [Apple Crumble](apple_crumble.md)
+- [Apple Fritter Bread](apple_fritter_bread.md)
 - [Banana Bread](banana_bread.md)
 - [Blueberry Buckle](blueberry_buckle.md)
 - [Blueberry Mug Cake](blueberry_mug_cake.md)

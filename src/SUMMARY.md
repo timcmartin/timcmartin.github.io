@@ -74,6 +74,7 @@
   - [Vietnamese Dipping Sauces](condiments/vietnamese_dipping_sauces.md)
 - [Desserts](desserts/README.md)
   - [Apple Crumble](desserts/apple_crumble.md)
+  - [Apple Fritter Bread](desserts/apple_fritter_bread.md)
   - [Banana Bread](desserts/banana_bread.md)
   - [Blueberry Buckle](desserts/blueberry_buckle.md)
   - [Blueberry Mug Cake](desserts/blueberry_mug_cake.md)
