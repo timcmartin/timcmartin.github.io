@@ -36,6 +36,7 @@
   - [Perfect Loaf Sourdough](bread/pl_sourdough.md)
   - [Sandwich Bread](bread/sandwich_bread.md)
   - [Sesame Buns](bread/sesame_buns.md)
+  - [Sourdough Bagels](bread/sourdough_bagels.md)
   - [Sourdough Experiment](bread/sourdough_experiment.md)
   - [Tartine Bread Sourdough](bread/tb_sourdough.md)
   - [Weeknight Sourdough](bread/weeknight_sourdough.md)
