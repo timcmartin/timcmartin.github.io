@@ -10,6 +10,8 @@ A collection of my favourite recipes.
   other content.
 - Available at <https://timcmartin.github.io> and
   <https://timcmartin.github.io/recipes>
+- After cloning this repo, run `git remote add book git@github.com:timcmartin/timcmartin.github.io.git` as well.
+- `recipebook` script should be automatically copied to `~/scripts/recipebook` when cloning dotfiles.
 - Run `recipebook` script on local machine to build and push changes merged
   into master.
 
@@ -48,4 +50,3 @@ git checkout main
 ## TODO
 
 - CI Integration to run script at Github instead of locally.
-- Testing new script
