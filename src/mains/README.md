@@ -66,5 +66,6 @@
 - [Tuna Casserole](tuna_casserole.md)
 - [Tuna Lasagna](tuna_lasagna.md)
 - [Tuscan Steak Salad](tuscan_steak.md)
+- [Vegetarian Chili](vegetarian_chili.md)
 - [Waffles](waffles.md)
 - [Welsh Rarebit](welsh_rarebit.md)

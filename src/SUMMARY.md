@@ -167,6 +167,7 @@
   - [Tuna Casserole](mains/tuna_casserole.md)
   - [Tuna Lasagna](mains/tuna_lasagna.md)
   - [Tuscan Steak Salad](mains/tuscan_steak.md)
+  - [Vegetarian Chili](mains/vegetarian_chili.md)
   - [Waffles](mains/waffles.md)
   - [Welsh Rarebit](mains/welsh_rarebit.md)
 - [Meal Planning](mealPlanning/README.md)
