@@ -112,6 +112,7 @@
   - [Brisket](mains/brisket.md)
   - [Cabbage Rolls](mains/cabbage_rolls.md)
   - [Cassoulet](mains/cassoulet.md)
+  - [Cast Iron Pizza](mains/cast_iron_pizza.md)
   - [Chicken And Sliders](mains/chicken_and_sliders.md)
   - [Chicken Pot Pie](mains/chicken_pot_pie.md)
   - [Chicken Souvlaki](mains/chicken_souvlaki.md)

@@ -11,6 +11,7 @@
 - [Brisket](brisket.md)
 - [Cabbage Rolls](cabbage_rolls.md)
 - [Cassoulet](cassoulet.md)
+- [Cast Iron Pizza](cast_iron_pizza.md)
 - [Chicken And Sliders](chicken_and_sliders.md)
 - [Chicken Pot Pie](./chicken_pot_pie.md)
 - [Chicken Souvlaki](chicken_souvlaki.md)
