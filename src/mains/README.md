@@ -48,6 +48,7 @@
 - [Pizza Papalis](pizza_papalis.md)
 - [Pork Belly Burnt Ends](pork_belly_burnt_ends.md)
 - [Pork Carnitas](pork_carnitas.md)
+- [Pork Teriyaki](pork_teriyaki.md)
 - [Pressure Cooker Beef Stew](pressure_cooker_beef_stew.md)
 - [Prime Rib](prime_rib.md)
 - [Shaking Beef](shaking_beef.md)
