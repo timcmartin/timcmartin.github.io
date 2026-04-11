@@ -141,6 +141,7 @@
   - [NY Street Cart Chicken](mains/ny_street_cart_chicken.md)
   - [One Batch Fried Chicken](mains/one_batch_fried_chicken.md)
   - [Oven Ribs](mains/oven_ribs.md)
+  - [Overnight Oats](mains/overnight_oats.md)
   - [Pad Thai](mains/pad_thai.md)
   - [Pancakes](mains/pancakes.md)
   - [Pasta With Cauliflower](mains/pasta_with_cauliflower.md)

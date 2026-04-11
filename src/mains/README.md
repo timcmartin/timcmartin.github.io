@@ -40,6 +40,7 @@
 - [NY Street Cart Chicken](ny_street_cart_chicken.md)
 - [One Batch Fried Chicken](./one_batch_fried_chicken.md)
 - [Oven Ribs](./oven_ribs.md)
+- [Overnight Oats](overnight_oats.md)
 - [Pad Thai](pad_thai.md)
 - [Pancakes](pancakes.md)
 - [Pasta With Cauliflower](pasta_with_cauliflower.md)
