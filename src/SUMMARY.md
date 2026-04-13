@@ -147,6 +147,7 @@
   - [Pasta With Cauliflower](mains/pasta_with_cauliflower.md)
   - [Perfect Ramen](mains/perfect_ramen.md)
   - [Pesto](mains/pesto.md)
+  - [Pimento Cheese](mains/pimento_cheese.md)
   - [Pizza Dough](mains/pizza_dough.md)
   - [Pizza Papalis](mains/pizza_papalis.md)
   - [Pork Belly Burnt Ends](mains/pork_belly_burnt_ends.md)

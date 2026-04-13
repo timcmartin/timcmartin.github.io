@@ -46,6 +46,7 @@
 - [Pasta With Cauliflower](pasta_with_cauliflower.md)
 - [Perfect Ramen](perfect_ramen.md)
 - [Pesto](./pesto.md)
+- [Pimento Cheese](pimento_cheese.md)
 - [Pizza Dough](pizza_dough.md)
 - [Pizza Papalis](pizza_papalis.md)
 - [Pork Belly Burnt Ends](pork_belly_burnt_ends.md)
