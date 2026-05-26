@@ -10,7 +10,7 @@
 - 2 tablespoons honey
 - 1 teaspoon table salt
 - 1/4 teaspoon pepper, divided
-- 1 cup mayonnaise
+- 1 cup mayonnaise (220 g)
 - 2 tablespoons lemon juice
 - 1/4 teaspoon ground coriander
 - 1/4 teaspoon ground cardamom
