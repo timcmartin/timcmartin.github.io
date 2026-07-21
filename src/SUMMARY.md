@@ -10,6 +10,7 @@
   - [Chicken Satay](appetizers/chicken_satay.md)
   - [Corn Dip](appetizers/corn_dip.md)
   - [Latin Quarter Cheese Spread](appetizers/cheese_spread.md)
+  - [Peel & Eat Shrimp](appetizers/peel_and_eat_shrimp.md)
   - [Nacho Cheese](appetizers/nacho_cheese.md)
   - [Shrimp Cocktail](appetizers/shrimp_cocktail.md)
   - [Thai Shrimp Skewers](appetizers/shrimp_skewers.md)
