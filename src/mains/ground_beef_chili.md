@@ -3,7 +3,7 @@
 ## Ingredients
 
 ### Chili Powder
-* 6 Ancho chiles:
+* 6 Ancho chilies:
 * 1 ounce tortilla chips
 * 2 Tbs ground cumin
 * 1 Tbs paprika
@@ -16,7 +16,7 @@
 1. Get rid of stem and seeds from Anchos and tear into 1 inch pieces.
 2. Toast for 4-6 minutes med-high heat until you can smell them.
 3. Move toasted chilies to food processor to cool until crisp.
-4. Add the other ingredients and process for 2 mimutes.
+4. Add the other ingredients and process for 2 minutes.
 5. When done, process tomatoes in unwashed bowl.
 
 ### Beef
@@ -32,23 +32,23 @@
 * 1 Tbs veg oil
 * 1 onion chopped
 * 3 minced cloves of garlic
-* 2 minced chipotle peppers
-* 1 (14.5-ounce) can whole peeled tomatoes, processeed in food processor.
+* 2 minced Chipotle peppers
+* 1 (14.5-ounce) can whole peeled tomatoes, processed in food processor.
 * 2 c of water
 * 15 ounce can of pinto beans and liquid
 * 2 tsp sugar
 
 * Let sit uncovered for 10 minutes, leave fat and stir it in.
 * 2 Tbs of cider vinegar and salt to finish.
-* Garnish with cilantro, minced red onion, shredded cheese, diced avacado, sour cream and lime juice.
+* Garnish with cilantro, minced red onion, shredded cheese, diced Avocado, sour cream and lime juice.
 
 ## Directions
 1. Add onion to oil and cook over med high heat until soft, 4-6 mins
-2. Add garlic and and cook for another minute
+2. Add garlic and cook for another minute
 3. Add beef and break up and cook until browned, 12 - 14 minutes
-4. Add spice mix and chipotles, stir to bloom
+4. Add spice mix and Chipotles, stir to bloom
 5. Add tomatoes, beans, water, sugar and stir.
 6. Bring to simmer, add lid and cook in oven at 275 for 1 1/2 to 2 hours
 7. Let sit uncovered for 10 minutes, leave fat and stir it in.
 8. 2 Tbs of cider vinegar and salt to finish.
-9. Garnish with cilantro, minced red onion, shredded cheese, diced avacado, sour cream and lime juice.
+9. Garnish with cilantro, minced red onion, shredded cheese, diced avocado, sour cream and lime juice.

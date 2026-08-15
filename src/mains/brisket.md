@@ -20,7 +20,7 @@ Well, take comfort, because barbecuing a brisket in your backyard is less daunti
 
 True, it takes time and practice, and you may find yourself tending the fire when you’d rather be sleeping. But the results — crisp, salty, peppery bark (the crust) encasing moist, smoky, luscious, tender meat — make the effort worthwhile.
 
-I’ve been researching brisket and cooking a lot of it at home for my new book, “The Brisket Chronicles” (Workman Publishing). With input from some of the nation’s top brisket masters, I’ve distilled the process to nine simple steps.
+I've been researching brisket and cooking a lot of it at home for my new book, “The Brisket Chronicles” (Workman Publishing). With input from some of the nation’s top brisket masters, I've distilled the process to nine simple steps.
 
 1. The Meat
 
@@ -36,11 +36,11 @@ Most brisket pros use a simple seasoning of salt and pepper (often referred to a
 
 Durney cooked his first brisket on a Weber Smokey Mountain. Burt Bakman of Slab in Los Angeles started on a Big Green Egg. Franklin cooked his first brisket in an inexpensive New Braunfels, while Lewis began his career with a smoker he rigged from a trash can. This is to say that you can make great brisket in a common backyard charcoal burner.
 
-Other popular options these days are a pellet grill or an electric smoker, both of which do a fine job of maintaining a steady stream of smoke and consistent temperature, but sometimes deliver a tad less flavour than a charcoal burner. I’ve never had much luck barbecuing a brisket on a gas grill. (It’s hard to run one at 250 degrees F — 121 Celsius — and it’s even harder to generate enough wood smoke.) If you do use a gas grill, Lewis suggests placing a metal pan with lit charcoal and wood chunks on the grate next to the meat.
+Other popular options these days are a pellet grill or an electric smoker, both of which do a fine job of maintaining a steady stream of smoke and consistent temperature, but sometimes deliver a tad less flavour than a charcoal burner. I've never had much luck barbecuing a brisket on a gas grill. (It’s hard to run one at 250 degrees F — 121 Celsius — and it’s even harder to generate enough wood smoke.) If you do use a gas grill, Lewis suggests placing a metal pan with lit charcoal and wood chunks on the grate next to the meat.
 
 4. The Smoke
 
-Cooking a brisket is a two-phase process. In the first, you set the bark and flavour the meat with wood smoke. This produces the smoke ring, a much-admired reddish band just below the surface — the result of a chemical reaction between the nitrogen dioxide in the smoke and the myoglobin in the meat. The second phase of cooking finishes rendering the fat and converting the tough collagen into tender gelatin.
+Cooking a brisket is a two-phase process. In the first, you set the bark and flavour the meat with wood smoke. This produces the smoke ring, a much-admired reddish band just below the surface — the result of a chemical reaction between the nitrogen dioxide in the smoke and the Myoglobin in the meat. The second phase of cooking finishes rendering the fat and converting the tough collagen into tender gelatin.
 
 Wood smoke is the soul of barbecued brisket. Pitmasters speak reverentially of “blue smoke,” a thin, wispy smoke filled with flavour-rich phenols. When using a kettle grill, water smoker or kamado-style cooker, fuel it with natural lump charcoal, adding hardwood chunks or chips to generate wood smoke. Texans favour oak (and sometimes mesquite), while Kansas Citians like to burn apple or hickory. Any seasoned hardwood will do. Buy it in chunks or chips; if using chips, soak them in water for 30 minutes, then drain, to slow combustion. Add the wood gradually, a couple of chunks or handfuls of chips every hour: You want to kiss the meat with smoke, not smother it.
 
@@ -54,7 +54,7 @@ While smoking the meat, you may experience the dreaded “stall,” in which the
 
 6. The Wrap
 
-The second phase of cooking begins when the brisket reaches an internal temperature of 165-170 F (74 to 77 C). This is the point at which most brisket masters wrap the meat in butcher paper or aluminum foil. Franklin and Lewis wrap in “pink” or “peach” paper, unlined butcher paper that seals in the meat juices while allowing the excess steam to escape. Other pitmasters, like Tomanetz, wrap in aluminum foil, a process known as the Texas Crutch. This guarantees a tender brisket, but sometimes results in a steamed texture reminiscent of pot roast.
+The second phase of cooking begins when the brisket reaches an internal temperature of 165-170 F (74 to 77 C). This is the point at which most brisket masters wrap the meat in butcher paper or aluminum foil. Franklin and Lewis wrap in “pink” or “peach” paper, unlined butcher paper that seals in the meat juices while allowing the excess steam to escape. Other Pitmasters, like Tomanetz, wrap in aluminum foil, a process known as the Texas Crutch. This guarantees a tender brisket, but sometimes results in a steamed texture reminiscent of pot roast.
 
 Home cooks can order unlined butcher paper online, or use parchment paper; just don’t use plastic-lined butcher paper.
 

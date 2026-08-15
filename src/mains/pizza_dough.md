@@ -5,7 +5,7 @@
 * pinch sugar
 * 2 1/2 – 3 cups all-purpose flour
 * 2 Tbsp. (or a good glug) olive oil
-* 1 tsp. salt
+* 1 tsp salt
 
 ## Directions
 1. Put 1 cup warm water into a large bowl, add the sugar and sprinkle the yeast overtop; let stand for 5 minutes, until it gets foamy.

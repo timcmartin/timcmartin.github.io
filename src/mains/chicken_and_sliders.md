@@ -22,9 +22,9 @@
 
 ## Directions
 1. Combine all slider ingredients in a bowl and stir until it comes together.
-2. Dump it onto a floured counter and work it unitl it comes together in a ball.
+2. Dump it onto a floured counter and work it until it comes together in a ball.
 3. Let rest, covered for at least until the chicken thighs are ready, up to 1 day.
-4. Pat Chicken thighs dru and season with pepper.
+4. Pat Chicken thighs dry and season with pepper.
 5. Melt 1 Tbs butter in a dutch oven, and cook chicken thighs on med high for about 5 minutes per side (start skin side down).
 6. Add stock, water, celery and onion and simmer for 25 minutes.
 7. Cut the heat, discard the onion and celery.  Transfer chicken to a plate.

@@ -18,9 +18,9 @@
 
 ## Directions
 1. Preheat the oven to 450.
-2. Cut the sweet potatoes into bite sized pieces, halve the brussels sprouts, chop capers and lettuce and medium dice the halloumi.
+2. Cut the sweet potatoes into bite sized pieces, halve the Brussels sprouts, chop capers and lettuce and medium dice the Halloumi.
 3. Toss the potatoes and sprouts in some oil and seasoning, roast potatoes on a sheet pan for 10 to 12 minutes without turning.
 4. Turn the potatoes and add the sprouts and continue to roast for another 10 - 12 minutes until golden brown and delicious.
-5. In a large pan heat a drizzle of oil on medium-high - cook halloumi for 30 seconds to 1 minute on all sides until GBD.
-6. Combine mayo, vinegar, caroes, garlic, mustard, 1 tsp olive oil and s&p in bowl and whisk.
+5. In a large pan heat a drizzle of oil on medium-high - cook Halloumi for 30 seconds to 1 minute on all sides until GBD.
+6. Combine mayo, vinegar, capers, garlic, mustard, 1 tsp olive oil and s&p in bowl and whisk.
 7. Bang it in 2 bowls.

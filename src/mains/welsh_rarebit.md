@@ -11,7 +11,7 @@
 * 1 1/3 cups heavy cream
 * 1 1/2 cups grated cheddar
 * 1 loaf of bread
-* salt, tabasco & worcestershire to taste
+* salt, Tabasco & Worcestershire to taste
 
 ## Directions
 1. In a saucepan create a blonde roux with the butter and flour.

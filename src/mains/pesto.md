@@ -25,7 +25,7 @@
 * 2 garlic cloves -> bash into paste in mortar with pestle.
 * 20 g pine nuts -> add and grid to paste
 * 1 1/2 cups tightly packed basil leaves, pinch of salt -> add and grind
-* 30 g parmesan, 10 g pecorino romano -> add and grind
+* 30 g Parmesan, 10 g pecorino Romano -> add and grind
 * 75 g olive oil -> beat in with spoon or spatula
 * 28 g butter -> beat in with spoon or spatula
 
@@ -41,7 +41,7 @@
 * 2 Tbs fresh parsley (optional)
 * 1/4 cup plus 3 Tbs Olive Oil
 * 1/2 tsp salt
-* 1/4 cup finely grated parm (or pecorino romano)
+* 1/4 cup finely grated Parmesan (or pecorino Romano)
 
 > Pounding the basil releases its flavorful oils into the pesto more readily. Basil usually darkens in homemade pesto, but you can boost the green color a little by adding the optional parsley. For sharper flavor, substitute one tablespoon finely grated pecorino Romano cheese for one tablespoon of the Parmesan. The pesto can be kept in an airtight container, covered with a thin layer of oil (1 to 2 tablespoons), and refrigerated for up to four days or frozen for up to one month.
 

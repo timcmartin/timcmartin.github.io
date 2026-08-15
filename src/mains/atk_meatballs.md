@@ -6,7 +6,7 @@
 * 11 Saltines -> Smash
 * 1/2 cup milk
 * 1 lb ground beef
-* 1 oz parmesan
+* 1 oz Parmesan
 * 1/2 teaspoon oregano
 * 1/2 teaspoon garlic powder
 * 1/2 teaspoon salt
@@ -21,7 +21,7 @@
 ### Ingredients
 * 5 cloves of garlic smashed
 * 1/8 cup of EVOO
-* 28 oz can crushed tomates
+* 28 oz can crushed tomatoes
 * 1/2 tsp of salt
 
 ### Directions

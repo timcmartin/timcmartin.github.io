@@ -20,4 +20,4 @@
 
 ### Directions
 1. Melt butter.
-2. Take off heat and stif in liquid smoke.
+2. Take off heat and stir in liquid smoke.

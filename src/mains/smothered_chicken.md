@@ -18,7 +18,7 @@
 1. Break chicken down into 8 pieces, bone-in breasts, back removed.
 2. Pat chicken dry and season both sides with salt and pepper.
 3. Dredge chicken pieces lightly in all purpose flour.
-4. Heat oil in dutch oven until you see whisps of smoke.
+4. Heat oil in dutch oven until you see wisps of smoke.
 5. Brown chicken in 2 batches, about 6 minutes each batch.
 6. Drain fat, and measure back 2 Tablespoons.
 7. Put back on heat and add onions, celery, salt and pepper and cook for about 6 minutes until veg are soft.
@@ -26,4 +26,3 @@
 9. Add chicken broth, whisk in and add chicken back to the pot, bring to simmer, put lid on, reduce heat to low and braise for 30 minutes until breasts reach 160 and thighs reach 175.
 10. Remove Chicken pieces and finish with vinegar - check S & P seasoning, parsley for garnish.
 11. Serve over rice.
-

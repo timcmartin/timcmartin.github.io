@@ -4,13 +4,13 @@
 [Serious Eats - Refried Beans](http://www.seriouseats.com/recipes/2014/04/perfect-refried-beans.html)
 
 ## Ingredients
-* 2 whole dried ancho chiles
+* 2 whole dried Ancho chilies
 * 1/4 cup canola oil, divided
 * 1 small yellow onion, thinly sliced
 * 4 medium cloves garlic, thinly sliced
 * 1/2 teaspoon dried oregano, preferably Mexican
 * 1 (14-ounce) can crushed tomatoes, preferably fire-roasted (such as Muir Glen)
-* 2 whole chipotle chiles packed in adobo, plus 2 tablespoons sauce from can
+* 2 whole Chipotle chilies packed in adobo, plus 2 tablespoons sauce from can
 * 1/4 cup minced fresh cilantro leaves and fine stems, plus more for serving
 * 1 tablespoon soy sauce
 * 1 tablespoon juice from 1 lime, plus lime wedges for serving
@@ -22,8 +22,8 @@
 
 ## Directions
 1. Trim tops of chilies and discard seeds (see here for more detailed instructions). Place on a microwave-safe plate and microwave on high power until pliable and fragrant, about 15 seconds. Cut chilies into thin strips using kitchen shears or a sharp knife.
-2. Heat 1 tablespoon oil in a medium saucepan over medium-high heat until shimmering. Add onions and garlic and cook, stirring, until softened and just starting to brown, about 5 minutes. Add oregano and chili strips and cook until fragrant, about 15 seconds. Add tomatoes and chipotle chilies with their sauce and bring to a simmer. Reduce heat to maintain a gentle simmer for 10 minutes.
-3. Puré mixture with a hand blender or in a standing blender until a loose puree is formed. Stir in cilantro, soy sauce, and lime juice and season to taste with salt and pepper. Set aside.
+2. Heat 1 tablespoon oil in a medium saucepan over medium-high heat until shimmering. Add onions and garlic and cook, stirring, until softened and just starting to brown, about 5 minutes. Add oregano and chili strips and cook until fragrant, about 15 seconds. Add tomatoes and Chipotle chilies with their sauce and bring to a simmer. Reduce heat to maintain a gentle simmer for 10 minutes.
+3. Puree mixture with a hand blender or in a standing blender until a loose puree is formed. Stir in cilantro, soy sauce, and lime juice and season to taste with salt and pepper. Set aside.
 4. Heat remaining 3 tablespoons oil in a medium cast iron or non-stick skillet over medium heat until shimmering. Working one at a time, fry corn tortillas until lightly browned but still pliable, about 15 seconds per side. Transfer to a paper towel to drain and stack them as you work. Cover with foil or a clean kitchen towel to keep warm.
 5. When tortillas are cooked, reheat skillet over medium-high heat until oil is shimmering (add more oil if necessary). Fry eggs, using a spoon to baste the tops with hot oil as they cook in order to help set the upper whites while keeping the yolk completely liquid. Fry until crisp on the bottom, whites are set, and yolks are golden, about 1 1/2 minutes. Season with salt and pepper and slide onto a clean plate.
 6. To serve, place two tortillas on a serving plate. Top with two fried eggs. Spoon salsa all over the top, leaving the yolks exposed. Sprinkle with cotija cheese and more chopped cilantro. Serve immediately with refried beans.

@@ -6,7 +6,7 @@
 * 4.5 litres water
 * 1 can beer
 * 8 medium red potatoes, cut in quarters
-* 2 large vidalia onions, cut in wedges
+* 2 large Vidalia onions, cut in wedges
 * 2 lbs smoked sausage, cut in 2 inch lengths
 * 8 ears corn on the cob
 * 4 lbs large shrimp, in shells, thawed
@@ -17,5 +17,5 @@
 3. Add smoked sausage; continue to cook on high for 5 minutes.
 4. Add corn to pot; continue to boil for 7 minutes.
 5. Add shrimp in shells, cook for 4 minutes.
-6. Drain cookin liquid; pour contents of pot into several large bowl or shallow pails.
+6. Drain cooking liquid; pour contents of pot into several large bowl or shallow pails.
 7. Sprinkle with additional Old Bay.

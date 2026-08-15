@@ -12,17 +12,17 @@
 * 1/2 tsp Dijon mustard
 * pinch of cayenne
 * 4 ounces extra-sharp cheddar cheese shredded
-* 1/3 cup panko
+* 1/3 cup Panko
 * 1 tablespoon olive oil
 * 2 tablespoons grated Parmesan cheese
 
 ## Directions
 1. Bring water and milk to boil in medium sauceoan over high heat.
 2. Stir in macaroni and reduce to medium-low.  Cook stirring frequently until just past al dente (6 - 8 minutes).
-3. Add American cheese, mustard and cayenne and cook, stirring constantly until cheese is completely melted - about 1 minute.
-4. Of heat, stir in cheddard until evenly distributed but not melted.  Cover saucepan and let stand for 5 minutes.
-5. Combine panko, oil, 1/8 tsp salt and 1/8 tsp pepper in non-stick skillet and toast until evenly browned.  Remove to bowl and add parmesan - toss to combine.
-6. Stir macaroni until sauce is smooth.  Season with salt and pepper, top with panko mixture.
+3. Add American cheese, mustard and cayenne and cook, stirring constantly until cheese is completely melted - about 1 minute.s
+4. Off heat, stir in cheddar until evenly distributed but not melted.  Cover saucepan and let stand for 5 minutes.
+5. Combine Panko, oil, 1/8 tsp salt and 1/8 tsp pepper in non-stick skillet and toast until evenly browned.  Remove to bowl and add Parmesan - toss to combine.
+6. Stir macaroni until sauce is smooth.  Season with salt and pepper, top with Panko mixture.
 
 ### Grown Up Version
-* Increase water to 1 3/4 cups.  Substitute 3/4 cup shredded Gruyere and 2 Tablespoons crubled blue cheese for cheddar.
+* Increase water to 1 3/4 cups.  Substitute 3/4 cup shredded Gruyere and 2 Tablespoons crumbled blue cheese for cheddar.

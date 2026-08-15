@@ -3,9 +3,9 @@
 [Dinner With Julie - Chef Roy Choi's Perfect Ramen](http://www.dinnerwithjulie.com/2015/02/08/ramen-egg-cheese/)
 
 ## Ingredients
-* 1 pkg. instant ramen noodles
+* 1 pkg instant ramen noodles
 * 1 egg
-* 1 tsp. butter
+* 1 tsp butter
 * grated carrot, fresh spinach, or leftover veggies (totally optional)
 * 2 processed cheese slices
 * toasted sesame seeds

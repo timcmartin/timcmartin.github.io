@@ -14,8 +14,8 @@
 * 1/4 cup Soya Sauce
 * 1/2 cup White Vinegar
 * 1/4 cup Orange Juice
-* Juce of 1 lime
-* 1 to 2 Scotch bonnet or habanero peppers seeded and chopped
+* Juice of 1 lime
+* 1 to 2 Scotch bonnet or Habanero peppers seeded and chopped
 * 3 green onions minced
 * 1 onion minced
 * 1/4 cup olive oil

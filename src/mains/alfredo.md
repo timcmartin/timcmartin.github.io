@@ -12,6 +12,6 @@
 
 ## Directions
 1. Bring 3 quarts water to boil in large Dutch oven. Add pasta and 1 tablespoon salt and cook, stirring frequently, until al dente. Reserve 1 cup cooking water, then drain pasta and return it to pot.
-2. Add Parmigiano-Reggiano, butter, reserved cooking water, and 1/2 teaspoon salt to pot. Set pot over low heat and, using tongs, toss and stir vigorously to thoroughly combine, about 1 minute. Remove pot from heat, cover, and let pasta sit for 1 minute.
+2. Add Parmesan, butter, reserved cooking water, and 1/2 teaspoon salt to pot. Set pot over low heat and, using tongs, toss and stir vigorously to thoroughly combine, about 1 minute. Remove pot from heat, cover, and let pasta sit for 1 minute.
 3. Toss pasta vigorously once more so sauce thoroughly coats pasta and any cheese clumps are emulsified into sauce, about 30 seconds. (Mixture may look wet at this point, but pasta will absorb excess moisture as it cools slightly.) Season with salt to taste.
 4. Transfer pasta to individual bowls. (Use rubber spatula as needed to remove any clumps of cheese stuck to tongs and bottom of pot.) Serve immediately, passing extra Parmigiano-Reggiano separately.

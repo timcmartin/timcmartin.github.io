@@ -51,7 +51,7 @@
    develop and breasts register 160 degrees, 3 to 5 minutes per side. Transfer
    bread and chicken to cutting board; let rest for at least 5 minutes.
 
-6. Cut bread and chicken into ¾-inch pieces. Rewhisk dressing to combine and
+6. Cut bread and chicken into ¾-inch pieces. Re-whisk dressing to combine and
    add bread, chicken, tomatoes, and cucumber, tossing to evenly coat. Season
    with salt and pepper to taste. Transfer to serving platter and top with
    mozzarella and basil. Serve.

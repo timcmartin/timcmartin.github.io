@@ -1,7 +1,7 @@
 # Chicken Pot Pie
 
 ## Ingredients
-* 1/2 lb crimini mushrooms, sliced
+* 1/2 lb Crimini mushrooms, sliced
 * 3 Tbs butter
 * 1 medium carrot chopped
 * 1 medium onion chopped
@@ -16,7 +16,7 @@
 1. Melt butter in a saute pan until foam subsides.
 2. Saute mushrooms until browned.
 3. Add carrot and onion and cook until onion is translucent.
-4. Sprinkle flour over vegetbales and stir to combine.
+4. Sprinkle flour over vegetables and stir to combine.
 5. Add stock 1/2 cup at a time, stirring to incorporate.
 6. Add herbs and simmer for 10 minutes until the carrots are tender.
 7. Remove bay leaves and stir in chicken and peas.

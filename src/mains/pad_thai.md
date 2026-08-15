@@ -50,7 +50,7 @@
 - 8 oz dried rice noodles
 - 6 cups boiling water
 - 2 Tsp veg oil
-- 4 scallions, whites minced, greens chopped and reservced
+- 4 scallions, whites minced, greens chopped and reserved
 - 1 clove of garlic minced
 - 1 pound of shrimp (-4 used for dried)
 - 4 large eggs
@@ -69,6 +69,6 @@
 8. Add 1 tsp of oil, and add garlic and scallions to pan - cook for 1 minute, remove to bowl.
 9. 2 tsp of oil, crank heat to high and cook shrimp - cook about 3 minute until browned.
 10. 2 tsp of oil, add eggs to pain and cook with shrimp until done.
-11. 2 more tsp of oil, add moodles and sauce. Cook for 3 minutes until the sauce is absorbed.
-12. Add nodles and sauce to the bowl, 2 tsp of serrano vinegar, scallion greens, bean sprouts and radish and toss.
+11. 2 more tsp of oil, add noodles and sauce. Cook for 3 minutes until the sauce is absorbed.
+12. Add noodles and sauce to the bowl, 2 tsp of serrano vinegar, scallion greens, bean sprouts and radish and toss.
 13. Serve with lime and peanuts.

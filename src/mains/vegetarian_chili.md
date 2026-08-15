@@ -44,7 +44,7 @@
 
 1. Saute onion and pepper in oil over medium heat until softened and onion
    starts to brown (5-7 minutes).
-2. Add tomato paste, garlic, cumin and oregano and sautee 1-2 minutes until
+2. Add tomato paste, garlic, cumin and oregano and saute 1-2 minutes until
    tomato paste starts to brown.
 3. Deglaze with water, add chili paste, beans, barley and mushrooms.
 4. Simmer for 35 - 45 minutes until barley is tender, stirring occasionally to

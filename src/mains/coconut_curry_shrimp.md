@@ -14,11 +14,11 @@
 - 1 Tbsp minced ginger
 - 1/2 tsp black pepper
 - 1 tsp salt
-- 1/2 tsp tumeric
+- 1/2 tsp turmeric
 - 2 tsp ground coriander
 - 1 tsp curry powder
 - 1 14.5 oz can of diced tomatoes (undrained)
-- 1 can 5.5 oz unsweetened cocount milk
+- 1 can 5.5 oz unsweetened coconut milk
 - fresh cilantro
 - cooked rices for serving
 

@@ -6,7 +6,7 @@
 - 3/4 cup roasted red pepper
 - 2 jarred cherry peppers
 - 2 garlic cloves
-- 2 anchovy filets
+- 2 anchovy fillets
 - 2 tsp dried rosemary
 - 1/2 tsp salt
 - 1/8 tsp pepper
@@ -25,4 +25,3 @@
 7. Combine sauce ingredients (peppers to pepper) and pulse in food processor until finely chopped.
 8. Add 1/4 cup of water and 2 Tbs white wine vinegar and process to combine.
 9. Move to bowl and whisk in 1/3 cup of olive oil and 2 Tbs of chopped parsley
-

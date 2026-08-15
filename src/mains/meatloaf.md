@@ -5,7 +5,7 @@
 * canola or olive oil
 * 1 onion, finely chopped
 * 2 cloves garlic, crushed
-* 1 1/2 - 2 lb. ground beef, bison or a combination of beef or bison and pork
+* 1 1/2 - 2 lb ground beef, bison or a combination of beef or bison and pork
 * 1 cup bread crumbs or 1/2 cup crushed crackers or quick oats
 * 1/2 cup tomato sauce or ketchup
 * 1 large egg
@@ -14,7 +14,7 @@
 
 ## Glaze (optional)
 * 1/4 cup ketchup, tomato sauce or chili sauce
-* 1 Tbsp. packed brown sugar
+* 1 Tbsp packed brown sugar
 * 1 Tbsp. (15 mL) grainy mustard
 
 ## Directions

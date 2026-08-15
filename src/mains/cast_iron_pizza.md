@@ -4,7 +4,7 @@
 
 ## Notes
 
-This pizza bakes in a 12-inch cast-iron skillet. Weigh the flour and water for the best results. Use a block cheese, not fresh mozzarella, for this recipe. Avoid preshredded cheese; it contains added starch, which gives the melted cheese a drier, chewier texture.
+This pizza bakes in a 12-inch cast-iron skillet. Weigh the flour and water for the best results. Use a block cheese, not fresh mozzarella, for this recipe. Avoid pre-shredded cheese; it contains added starch, which gives the melted cheese a drier, chewier texture.
 
 ## INGREDIENTS
 

@@ -15,7 +15,7 @@
 * 1	pound carrots, peeled and sliced on bias ½ inch thick
 * 1	pound shiitake mushrooms, stemmed, caps larger than 2 inches halved
 * 1	(1-pound) skin-on salmon fillet, about 1½ inches thick at thickest part
-* 4	teaspoons hoisin sauce, divided
+* 4	teaspoons Hoisin sauce, divided
 * 1	tablespoon sesame seeds, toasted
 
 ### Directions
@@ -23,9 +23,9 @@
 2. Bring 6 cups water to boil in now-empty saucepan. While water is coming to boil, whisk vinegar, sugar, ¾ teaspoon salt, and remaining ½ teaspoon ginger in medium bowl until sugar is dissolved. Add cucumber and stir until coated. Set aside, stirring occasionally.
 3. Add rice and 1 teaspoon salt to boiling water. Reduce heat and simmer until rice is tender, about 30 minutes. Drain rice well and return it to saucepan. Cover and set aside.
 4. While rice is cooking, toss carrots with 1 tablespoon oil and ½ teaspoon salt. Spread in even layer on half of rimmed baking sheet. Toss mushrooms with 2 tablespoons water, remaining 1 tablespoon oil, and remaining ½ teaspoon salt and spread in even layer on other half of sheet. Roast until vegetables are just beginning to soften and brown, about 10 minutes.
-5. While vegetables are cooking, cut salmon in half. Halve each piece crosswise to create 4 equal pieces. Make 2 shallow slashes about 1 inch apart along skin side of each piece, being careful not to cut into flesh. Brush flesh side of each piece with ½ teaspoon hoisin.
+5. While vegetables are cooking, cut salmon in half. Halve each piece crosswise to create 4 equal pieces. Make 2 shallow slashes about 1 inch apart along skin side of each piece, being careful not to cut into flesh. Brush flesh side of each piece with ½ teaspoon Hoisin.
 6. Reduce oven temperature to 275 degrees and remove sheet. Push vegetables to either side to clear space in middle of sheet. Carefully place salmon, skin side down, in clearing. Return sheet to oven and roast until vegetables are tender and browned and centers of fillets are still translucent when checked with tip of paring knife and register 125 degrees (for medium-rare), 10 to 12 minutes.
-7. Measure out ¼ cup cucumber liquid and add to scallion mixture. Whisk in remaining 2 teaspoons hoisin. Stir 2 tablespoons dressing into rice.
+7. Measure out ¼ cup cucumber liquid and add to scallion mixture. Whisk in remaining 2 teaspoons Hoisin. Stir 2 tablespoons dressing into rice.
 8. Spoon rice into 4 wide bowls. Place 1 piece of salmon on top of rice. Arrange carrots, mushrooms, and cucumbers in piles that cover rice. Drizzle salmon and vegetables with remaining dressing. Sprinkle with sesame seeds and scallion greens. Serve, passing sriracha separately, if using.
 
 ## Farro Bowl with Vegetables and Sausage

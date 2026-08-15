@@ -16,5 +16,5 @@
 3. Add some salt and pepper and mix it all up with your hands. You can do this ahead of time and keep the mixture in the fridge.
 4. Shape into 1-2 inch balls and set aside on a baking sheet.
 5. Carefully drop them into the simmering sauce. You might not fit them all into your pot - that's ok. Leave the rest to simmer after the first has been cooked, or freeze them for another batch.
-6. Cover thte pot with a lid and leave to simmer.  DO NOT STIR.
+6. Cover the pot with a lid and leave to simmer.  DO NOT STIR.
 7. Simmer for 20 minutes.

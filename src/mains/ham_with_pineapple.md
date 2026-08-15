@@ -9,9 +9,9 @@
 * Maraschino cherries (optional)
 
 ## Directions
-1. Drain pineapple and reserve 3/4 cup juice.  Whisk sugar, mustad and juice together in a small saucepan, bring to simmer and reduce until thick.
+1. Drain pineapple and reserve 3/4 cup juice.  Whisk sugar, mustard and juice together in a small saucepan, bring to simmer and reduce until thick.
 2. Attach pineapple rings and cherries to ham, place in an oven bag and let stand at room temperature for an hour.
-3. Preheat ovent to 300 degrees.
+3. Preheat event to 300 degrees.
 4. Line a baking sheet with foil, insert a rack and put the ham in an oven bag with a thermometer.
 5. Heat for 17 minutes a pound, or bring to 120 degrees.
 6. Remove the ham from the oven, leave in bag and heat the oven to 450 degrees.

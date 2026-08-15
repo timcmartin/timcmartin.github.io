@@ -7,7 +7,7 @@
 * 2 tablespoons water
 * 1/4 teaspoon baking soda
 * Salt and pepper
-* 4 tsp Better Than Boullion Roasted Beef Base dissolved in 2 cups of water or 4 cups beef broth reduced to 2 cups
+* 4 tsp Better Than Bullion Roasted Beef Base dissolved in 2 cups of water or 4 cups beef broth reduced to 2 cups
 * 6 ounces pancetta, chopped coarse
 * 1 onion, chopped coarse
 * 1 large carrot, peeled and chopped coarse

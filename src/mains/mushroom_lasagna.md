@@ -3,8 +3,8 @@
 [Milk Calendar]
 
 > Total: 3 cups of tomato sauce,
-> 2 cups of mozzerella,
-> 1/2 cup parmesan,
+> 2 cups of mozzarella,
+> 1/2 cup Parmesan,
 > 4 Tbs butter
 
 ## Ingredients
@@ -12,7 +12,7 @@
 * 2 Tbs butter
 * 4 cups thick sliced mushrooms
 * 1 cup tomato sauce
-* Saute mushrroms in butter until tender, strain and mix with tomato sauce.
+* Saute mushrooms in butter until tender, strain and mix with tomato sauce.
 
 ### Bechamel
 * 2 Tbs butter
@@ -25,13 +25,13 @@
 ### Ricotta Layer
 * 2 cups ricotta
 * 1 Tbs chopped basil
-* 1 cup shredded mozzerella
-* 1/4 cup parmesan cheese
+* 1 cup shredded mozzarella
+* 1/4 cup Parmesan cheese
 * 1 cup bechamel
 * Combine all together in a bowl
 
 ## Directions
 1. Spread 1 cup of tomato sauce in the bottom of a 13 x 9 dish.
 2. Noodles -> Ricotta Layer -> Noodles -> Mushroom Layer -> Noodles
-3. Completely cover with 1 cup of tomato sauce, drizzle remaining bechamel and top with 1 cup of mozzerella and 1/4 cup of parmesan.
+3. Completely cover with 1 cup of tomato sauce, drizzle remaining bechamel and top with 1 cup of mozzarella and 1/4 cup of Parmesan.
 4. Cover and bake @375 for 35 minutes, uncover and bake for another 10 minutes.

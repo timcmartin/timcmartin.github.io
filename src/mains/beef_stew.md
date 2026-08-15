@@ -6,7 +6,7 @@
 * 2 pounds boneless beef chuck-eye roast, trimmed and cut into 1 1/2-inch pieces
 * Salt and pepper
 * 5 teaspoons canola oil
-* 1 large portobello mushroom cap, cut into 1/2-inch pieces
+* 1 large Portobello mushroom cap, cut into 1/2-inch pieces
 * 2 onions, chopped fine
 * 3 garlic cloves, minced
 * 1 tablespoon minced fresh thyme or 1 teaspoon dried
