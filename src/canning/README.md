@@ -154,3 +154,13 @@
 | Date             | Weight | Yield        | Description  | Notes                                                    |
 | ---------------- | ------ | ------------ | ------------ | -------------------------------------------------------- |
 | Sunday August 24 | 20 lbs | 15.75 Litres | Dill Pickles | 10 \* 1L, 7 \* 750 ml, 1 \* 500 ml. Adjusted the recipe. |
+
+## 2026
+
+- Bought 2 bunches of dill with the cukes - right amount.
+- Had some cukes freeze overnight in the garage fridge - reduced yield.
+- Followed last year's recipe, double batch of brine - needed a touch more - likely due to some jars not as full of cukes.
+
+| Date               | Weight | Yield     | Description  | Notes    |
+| ------------------ | ------ | --------- | ------------ | -------- |
+| Friday September 4 | 20 lbs | 15 Litres | Dill Pickles | 15 \* 1L |

@@ -1,5 +1,7 @@
 # Dill Pickles
 
+> Pickle Crisp Note: Rounded 1/4 tsp for Litre jars, 1/8 tsp for pint jars.
+
 ## 2025 Recipe
 
 Makes close to 16 Litres of pickles.
