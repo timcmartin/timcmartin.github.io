@@ -22,7 +22,9 @@
   - Pickles & Olives
 - Dessert:
   - Pumpkin Pie:
-    - Whipped Cream
+  - Pumpkin Chiffon Pie
+  - [Deconstructed Turkey](src/desserts/pumpkin_chiffon_pie.md):
+    - Whipped Cream for both
 
 ## Notes
 
