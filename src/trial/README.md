@@ -5,6 +5,7 @@ Recipes that I haven't tried yet, but am saving for posterity.
 - [Baked Rice Pudding](baked_rice_pudding.md)
 - [Bread and Butter Pickles](bb_pickles.md)
 - [Buttermilk Substitute](buttermilk.md)
+- [Cabbage And Lamb](spicy_cabbage_and_lamb.md)
 - [Chili Crisp](chili_crisp.md)
 - [Dan Dan Noodles](dandan.md)
 - [Flour Tortillas](flour_tortillas.md)

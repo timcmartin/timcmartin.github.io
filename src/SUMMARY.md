@@ -268,6 +268,7 @@
 - [To Try](trial/README.md)
   - [Bread and Butter Pickles](trial/bb_pickles.md)
   - [Buttermilk Substitute](trial/buttermilk.md)
+  - [Cabbage And Lamb](trial/spicy_cabbage_and_lamb.md)
   - [Chili Crisp](trial/chili_crisp.md)
   - [Dan Dan Noodles](trial/dandan.md)
   - [Flour Tortillas](trial/flour_tortillas.md)
